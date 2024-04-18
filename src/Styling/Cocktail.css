@@ -1,0 +1,22 @@
+.instruction-text{
+ width: 50%;
+ 
+}
+.titel-text{
+    font-family: Pacifico;
+    color: white;
+}
+
+.cocktail-img {
+    width: 50%;
+}
+
+.bg-img{
+    background-image: url('https://images5.alphacoders.com/462/462280.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+      
+}
+

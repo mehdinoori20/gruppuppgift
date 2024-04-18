@@ -1,0 +1,3486 @@
+[
+    {
+        "_id": "66014c0529f983c33c591935",
+        "title": "Chicken Caesar Salad",
+        "description": "Classic Caesar salad with grilled chicken",
+        "imageUrl": "https://shared.cdn.smp.schibsted.com/v2/images/f4e01807-a003-457e-8b9f-2cde324c2c88?fit=crop&h=750&w=1000&s=7821a62375d2b58a8c192911cec4bde62f3fe057",
+        "timeInMins": 25,
+        "categories": [
+            "Appetizer",
+            "American"
+        ],
+        "instructions": [
+            "Grill chicken and slice",
+            "Toss romaine lettuce with Caesar dressing",
+            "Top with grilled chicken, croutons, and Parmesan"
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken breast",
+                "amount": 2,
+                "unit": "pcs",
+                "_id": "66014c0529f983c33c591936"
+            },
+            {
+                "name": "Romaine lettuce",
+                "amount": 1,
+                "unit": "head",
+                "_id": "66014c0529f983c33c591937"
+            },
+            {
+                "name": "Croutons",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "66014c0529f983c33c591938"
+            },
+            {
+                "name": "Caesar dressing",
+                "amount": 100,
+                "unit": "ml",
+                "_id": "66014c0529f983c33c591939"
+            }
+        ],
+        "price": 120,
+        "avgRating": 3.1176470588235294
+    },
+    {
+        "_id": "66014c1b29f983c33c5919db",
+        "title": "Mango Sticky Rice",
+        "description": "Sweet Thai dessert with mango and coconut rice",
+        "imageUrl": "https://i0.wp.com/beyondsweetandsavory.com/wp-content/uploads/2021/05/Instant-Pot-mango-sticky-rice-Vy-Tran-5-of-6-853x1280-1.jpg?w=853&ssl=1",
+        "timeInMins": 60,
+        "categories": [
+            "Dessert",
+            "Thai"
+        ],
+        "instructions": [
+            "Cook sticky rice with coconut milk",
+            "Slice ripe mango",
+            "Serve mango over sticky rice, drizzle with coconut sauce"
+        ],
+        "ingredients": [
+            {
+                "name": "Sticky rice",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "66014c1b29f983c33c5919dc"
+            },
+            {
+                "name": "Coconut milk",
+                "amount": 400,
+                "unit": "ml",
+                "_id": "66014c1b29f983c33c5919dd"
+            },
+            {
+                "name": "Ripe mango",
+                "amount": 2,
+                "unit": "pcs",
+                "_id": "66014c1b29f983c33c5919de"
+            },
+            {
+                "name": "Palm sugar",
+                "amount": 50,
+                "unit": "g",
+                "_id": "66014c1b29f983c33c5919df"
+            }
+        ],
+        "price": 80,
+        "avgRating": 5
+    },
+    {
+        "_id": "66014c4929f983c33c5919ed",
+        "title": "Chocolate Mousse",
+        "description": "Creamy and delightful chocolate mousse",
+        "imageUrl": "https://shared.cdn.smp.schibsted.com/v2/images/32205408-c5c2-49d4-a1ed-8dce5ac8dea5?fit=crop&h=750&w=1000&s=f31dc38dc19d2cf69f6778f77001c8b1e9531b19",
+        "timeInMins": 120,
+        "categories": [
+            "Dessert",
+            "Dairy"
+        ],
+        "instructions": [
+            "Melt chocolate and let cool",
+            "Whip cream and fold in chocolate",
+            "Chill before serving"
+        ],
+        "ingredients": [
+            {
+                "name": "Dark chocolate",
+                "amount": 200,
+                "unit": "g",
+                "_id": "66014c4929f983c33c5919ee"
+            },
+            {
+                "name": "Cream",
+                "amount": 300,
+                "unit": "ml",
+                "_id": "66014c4929f983c33c5919ef"
+            },
+            {
+                "name": "Vanilla sugar",
+                "amount": 1,
+                "unit": "tsp",
+                "_id": "66014c4929f983c33c5919f0"
+            },
+            {
+                "name": "Egg yolk",
+                "amount": 2,
+                "unit": "pcs",
+                "_id": "66014c4929f983c33c5919f1"
+            }
+        ],
+        "price": 40,
+        "avgRating": 5
+    },
+    {
+        "_id": "66014c5929f983c33c591a6b",
+        "title": "Guacamole",
+        "description": "Creamy and delicious avocado dip",
+        "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_243403/cf_259/guacamole_med_apple.jpg",
+        "timeInMins": 15,
+        "categories": [
+            "Appetizer",
+            "Mexican",
+            "Vegetarian"
+        ],
+        "instructions": [
+            "Mash avocado",
+            "Add tomato, onion, lime juice, and cilantro",
+            "Season with salt and pepper to taste"
+        ],
+        "ingredients": [
+            {
+                "name": "Avocado",
+                "amount": 3,
+                "unit": "pcs",
+                "_id": "66014c5929f983c33c591a6c"
+            },
+            {
+                "name": "Tomato",
+                "amount": 1,
+                "unit": "pcs",
+                "_id": "66014c5929f983c33c591a6d"
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "pcs",
+                "_id": "66014c5929f983c33c591a6e"
+            },
+            {
+                "name": "Lime juice",
+                "amount": 1,
+                "unit": "tbsp",
+                "_id": "66014c5929f983c33c591a6f"
+            }
+        ],
+        "price": 89,
+        "avgRating": 3.6
+    },
+    {
+        "_id": "66014d2229f983c33c591d41",
+        "title": "Greek Salad",
+        "description": "A fresh and healthy salad with vegetables, olives, feta cheese, and a simple dressing.",
+        "imageUrl": "https://cdn-rdb.arla.com/Files/arla-se/1776727224/0ec3cb10-58e6-4a3f-99de-193e9c1e5bb9.jpg?w=1269&h=715&mode=crop&ak=f525e733&hm=b762ca1a",
+        "timeInMins": 15,
+        "categories": [
+            "Appetizer",
+            "Mediterranean",
+            "Vegetarian",
+            "Lunch"
+        ],
+        "instructions": [
+            "Dice or slice tomatoes, cucumber, bell pepper, and onion.",
+            "Pit olives and cut feta cheese into chunks.",
+            "Combine vegetables, olives, and feta cheese in a large bowl.",
+            "Drizzle with olive oil and squeeze lemon juice over.",
+            "Sprinkle with fresh oregano, salt, and black pepper to taste.",
+            "Toss well and serve immediately as a refreshing and tasty appetizer or side dish."
+        ],
+        "ingredients": [
+            {
+                "name": "Tomatoes",
+                "amount": 4,
+                "unit": "pcs",
+                "_id": "66014d2229f983c33c591d42"
+            },
+            {
+                "name": "Cucumber",
+                "amount": 1,
+                "unit": "pcs",
+                "_id": "66014d2229f983c33c591d43"
+            },
+            {
+                "name": "Bell pepper",
+                "amount": 1,
+                "unit": "pcs",
+                "_id": "66014d2229f983c33c591d44"
+            },
+            {
+                "name": "Red onion",
+                "amount": 1,
+                "unit": "pcs",
+                "_id": "66014d2229f983c33c591d45"
+            },
+            {
+                "name": "Olives",
+                "amount": 100,
+                "unit": "g",
+                "_id": "66014d2229f983c33c591d46"
+            },
+            {
+                "name": "Feta cheese",
+                "amount": 150,
+                "unit": "g",
+                "_id": "66014d2229f983c33c591d47"
+            },
+            {
+                "name": "Olive oil",
+                "amount": 2,
+                "unit": "tbsp",
+                "_id": "66014d2229f983c33c591d48"
+            },
+            {
+                "name": "Lemon juice",
+                "amount": 1,
+                "unit": "tbsp",
+                "_id": "66014d2229f983c33c591d49"
+            },
+            {
+                "name": "Fresh oregano",
+                "amount": null,
+                "unit": "",
+                "_id": "66014d2229f983c33c591d4a"
+            },
+            {
+                "name": "Salt",
+                "amount": null,
+                "unit": "",
+                "_id": "66014d2229f983c33c591d4b"
+            },
+            {
+                "name": "Black pepper",
+                "amount": null,
+                "unit": "",
+                "_id": "66014d2229f983c33c591d4c"
+            }
+        ],
+        "price": 119,
+        "avgRating": 4
+    },
+    {
+        "_id": "66014d4e29f983c33c591e0a",
+        "title": "Hummus",
+        "description": "A creamy and flavorful chickpea dip with garlic, tahini, and lemon.",
+        "imageUrl": "https://www.twopeasandtheirpod.com/wp-content/uploads/2023/10/Hummus-8.jpg",
+        "timeInMins": 15,
+        "categories": [
+            "Appetizer",
+            "Mediterranean",
+            "Vegetarian",
+            "lunch"
+        ],
+        "instructions": [
+            "Rinse chickpeas and blend in a food processor until smooth.",
+            "Add tahini, minced garlic, lemon juice, olive oil, cumin, and salt.",
+            "Blend until smooth and creamy, adjusting the taste with more lemon juice or salt if needed.",
+            "Serve hummus in a bowl and drizzle with extra olive oil before serving.",
+            "Garnish with fresh parsley, paprika, or roasted pine nuts if desired."
+        ],
+        "ingredients": [
+            {
+                "name": "Chickpeas",
+                "amount": 400,
+                "unit": "g",
+                "_id": "66014d4e29f983c33c591e0b"
+            },
+            {
+                "name": "Tahini",
+                "amount": 4,
+                "unit": "tbsp",
+                "_id": "66014d4e29f983c33c591e0c"
+            },
+            {
+                "name": "Garlic",
+                "amount": 2,
+                "unit": "cloves",
+                "_id": "66014d4e29f983c33c591e0d"
+            },
+            {
+                "name": "Lemon juice",
+                "amount": 3,
+                "unit": "tbsp",
+                "_id": "66014d4e29f983c33c591e0e"
+            },
+            {
+                "name": "Olive oil",
+                "amount": 2,
+                "unit": "tbsp",
+                "_id": "66014d4e29f983c33c591e0f"
+            },
+            {
+                "name": "Cumin",
+                "amount": 1,
+                "unit": "tsp",
+                "_id": "66014d4e29f983c33c591e10"
+            },
+            {
+                "name": "Salt",
+                "amount": null,
+                "unit": "",
+                "_id": "66014d4e29f983c33c591e11"
+            },
+            {
+                "name": "Fresh parsley",
+                "amount": null,
+                "unit": "",
+                "_id": "66014d4e29f983c33c591e12"
+            },
+            {
+                "name": "Paprika",
+                "amount": 1,
+                "unit": "piece",
+                "_id": "66014d4e29f983c33c591e13"
+            }
+        ],
+        "price": 59,
+        "avgRating": 4
+    },
+    {
+        "_id": "66014e0129f983c33c5921b5",
+        "title": "Vegetarian Omelette",
+        "description": "Delicious omelette filled with mushrooms, tomatoes, and cheese",
+        "imageUrl": "https://www.simplyrecipes.com/thmb/LLhiA8KZ7JZ5ZI0g-1bF1eg-gGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2018__10__HT-Make-an-Omelet-LEAD-HORIZONTAL-17cd2e469c4a4ccbbd1273a7cae6425c.jpg",
+        "timeInMins": 20,
+        "categories": [
+            "Breakfast",
+            "Vegetarian",
+            "American"
+        ],
+        "instructions": [
+            "Heat a non-stick pan over medium heat",
+            "Saute mushrooms and tomatoes until soft",
+            "Whisk eggs with a pinch of salt and pepper",
+            "Pour eggs into the pan and cook until set",
+            "Sprinkle cheese over half of the omelette",
+            "Fold the omelette in half and cook for another minute",
+            "Slide onto a plate and serve hot"
+        ],
+        "ingredients": [
+            {
+                "name": "Eggs",
+                "amount": 3,
+                "unit": "pieces",
+                "_id": "66014e0129f983c33c5921b6"
+            },
+            {
+                "name": "Mushrooms",
+                "amount": 50,
+                "unit": "g",
+                "_id": "66014e0129f983c33c5921b7"
+            },
+            {
+                "name": "Tomatoes",
+                "amount": 1,
+                "unit": "piece",
+                "_id": "66014e0129f983c33c5921b8"
+            },
+            {
+                "name": "Cheese",
+                "amount": 50,
+                "unit": "g",
+                "_id": "66014e0129f983c33c5921b9"
+            },
+            {
+                "name": "Salt",
+                "amount": 1,
+                "unit": "pinch",
+                "_id": "66014e0129f983c33c5921ba"
+            },
+            {
+                "name": "Pepper",
+                "amount": 1,
+                "unit": "pinch",
+                "_id": "66014e0129f983c33c5921bb"
+            },
+            {
+                "name": "Oil",
+                "amount": 1,
+                "unit": "tbsp",
+                "_id": "66014e0129f983c33c5921bc"
+            }
+        ],
+        "price": 109,
+        "avgRating": 4
+    },
+    {
+        "_id": "660531d829f983c33cf93be0",
+        "title": "Refreshing Berry Smoothie",
+        "description": "A delicious and nutritious berry smoothie packed with vitamins and antioxidants.",
+        "imageUrl": "https://www.ambitiouskitchen.com/wp-content/uploads/2021/01/Almond-Cherry-Smoothie-5.jpg",
+        "timeInMins": 10,
+        "categories": [
+            "Breakfast",
+            "Snack"
+        ],
+        "instructions": [
+            "Add frozen mixed berries, banana, spinach, yogurt, and almond milk to a blender.",
+            "Blend until smooth and creamy.",
+            "Pour into glasses and serve immediately.",
+            "Enjoy your refreshing berry smoothie!"
+        ],
+        "ingredients": [
+            {
+                "name": "Frozen mixed berries",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "660531d829f983c33cf93be1"
+            },
+            {
+                "name": "Banana",
+                "amount": 1,
+                "unit": "medium",
+                "_id": "660531d829f983c33cf93be2"
+            },
+            {
+                "name": "Fresh spinach",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "660531d829f983c33cf93be3"
+            },
+            {
+                "name": "Greek yogurt",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "660531d829f983c33cf93be4"
+            },
+            {
+                "name": "Almond milk",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "660531d829f983c33cf93be5"
+            }
+        ],
+        "price": 79,
+        "avgRating": 5
+    },
+    {
+        "_id": "6605358f29f983c33cf97155",
+        "title": "Beef Stir-Fry",
+        "description": "Quick and flavorful beef stir-fry with vegetables",
+        "imageUrl": "https://www.vinia.se/blogg/vin-och-vanner/wp-content/uploads/sites/2/2020/09/BiffochBroccoliWok.jpg",
+        "timeInMins": 30,
+        "categories": [
+            "Dinner",
+            "Chinese",
+            "Meat"
+        ],
+        "instructions": [
+            "Slice beef and marinate",
+            "Stir-fry beef and vegetables in a wok",
+            "Serve over rice"
+        ],
+        "ingredients": [
+            {
+                "name": "Beef sirloin",
+                "amount": 400,
+                "unit": "g",
+                "_id": "6605358f29f983c33cf97156"
+            },
+            {
+                "name": "Broccoli",
+                "amount": 1,
+                "unit": "kg",
+                "_id": "6605358f29f983c33cf97157"
+            },
+            {
+                "name": "Soy sauce",
+                "amount": 50,
+                "unit": "ml",
+                "_id": "6605358f29f983c33cf97158"
+            },
+            {
+                "name": "Ginger",
+                "amount": 1,
+                "unit": "tbsp",
+                "_id": "6605358f29f983c33cf97159"
+            }
+        ],
+        "price": 125,
+        "avgRating": 4
+    },
+    {
+        "_id": "660535e029f983c33cf97c76",
+        "title": "Greek Yogurt Parfait",
+        "description": "A healthy and delicious breakfast option featuring layers of Greek yogurt, granola, and fresh berries.",
+        "imageUrl": "https://thewoodenskillet.com/wp-content/uploads/2023/05/greek-yogurt-parfait-recipe-1.jpg",
+        "timeInMins": 10,
+        "categories": [
+            "Breakfast ,Dairy ,Vegetarian ,Greek"
+        ],
+        "instructions": [
+            "In a glass or bowl, layer Greek yogurt, granola, and fresh berries.",
+            "Repeat the layers until the glass or bowl is filled.",
+            "Top with a final layer of berries for garnish.",
+            "Serve immediately and enjoy!"
+        ],
+        "ingredients": [
+            {
+                "name": "Greek yogurt",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "660535e029f983c33cf97c77"
+            },
+            {
+                "name": "Granola",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "660535e029f983c33cf97c78"
+            },
+            {
+                "name": "Fresh berries (strawberries, blueberries, raspberries)",
+                "amount": 200,
+                "unit": "gram",
+                "_id": "660535e029f983c33cf97c79"
+            }
+        ],
+        "price": 39,
+        "avgRating": 5
+    },
+    {
+        "_id": "66053a9529f983c33cfa2af4",
+        "title": "French Beef Bourguignon",
+        "description": "A classic French stew made with tender beef, red wine, vegetables, and herbs.",
+        "imageUrl": "https://www.lecreuset.se/on/demandware.static/-/Library-Sites-lc-sharedLibrary/default/dw36c1d3fc/images/recipe/HD_PNG_LC_20200430_DK_RC_CI_r0000000000561_DAN.png",
+        "timeInMins": 180,
+        "categories": [
+            "Meat",
+            "French",
+            "Dinner"
+        ],
+        "instructions": [
+            "In a large pot, cook the chopped bacon until crisp. Remove and set aside.",
+            "In the same pot, brown the beef cubes in batches. Remove and set aside.",
+            "Add chopped onions, carrots, and garlic to the pot. Cook until softened.",
+            "Return the beef and bacon to the pot. Add red wine, beef broth, tomato paste, thyme, and bay leaves.",
+            "Simmer covered for 2 hours until beef is tender. Serve hot."
+        ],
+        "ingredients": [
+            {
+                "name": "Beef chuck roast",
+                "amount": 2,
+                "unit": "pounds",
+                "_id": "66053a9529f983c33cfa2af5"
+            },
+            {
+                "name": "Red wine",
+                "amount": 2,
+                "unit": "cups",
+                "_id": "66053a9529f983c33cfa2af6"
+            },
+            {
+                "name": "Carrots",
+                "amount": 4,
+                "unit": "medium",
+                "_id": "66053a9529f983c33cfa2af7"
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "large",
+                "_id": "66053a9529f983c33cfa2af8"
+            },
+            {
+                "name": "Garlic cloves",
+                "amount": 4,
+                "unit": "cloves",
+                "_id": "66053a9529f983c33cfa2af9"
+            },
+            {
+                "name": "Bacon",
+                "amount": 4,
+                "unit": "slices",
+                "_id": "66053a9529f983c33cfa2afa"
+            },
+            {
+                "name": "Mushrooms",
+                "amount": 8,
+                "unit": "ounces",
+                "_id": "66053a9529f983c33cfa2afb"
+            },
+            {
+                "name": "Beef broth",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "66053a9529f983c33cfa2afc"
+            },
+            {
+                "name": "Tomato paste",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "66053a9529f983c33cfa2afd"
+            },
+            {
+                "name": "Thyme",
+                "amount": 1,
+                "unit": "tablespoon",
+                "_id": "66053a9529f983c33cfa2afe"
+            },
+            {
+                "name": "Bay leaves",
+                "amount": 2,
+                "unit": "leaves",
+                "_id": "66053a9529f983c33cfa2aff"
+            },
+            {
+                "name": "Olive oil",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "66053a9529f983c33cfa2b00"
+            }
+        ],
+        "price": 289,
+        "avgRating": 4.375
+    },
+    {
+        "_id": "66053ac229f983c33cfa2b02",
+        "title": "French Sole Meunière",
+        "description": "A classic French fish dish made with delicate sole fillets coated in flour and cooked in butter.",
+        "imageUrl": "https://www.jocooks.com/wp-content/uploads/2011/06/sole-meuniere-1-640x750.jpg",
+        "timeInMins": 20,
+        "categories": [
+            "Fish",
+            "French",
+            "Seafood",
+            "Dinner",
+            "Lunch"
+        ],
+        "instructions": [
+            "Season sole fillets with salt and pepper.",
+            "Dredge each fillet in flour, shaking off excess.",
+            "In a large skillet, melt butter over medium heat until foamy.",
+            "Add the sole fillets and cook until golden brown, about 2-3 minutes per side.",
+            "Drizzle with lemon juice and sprinkle with parsley before serving."
+        ],
+        "ingredients": [
+            {
+                "name": "Sole fillets",
+                "amount": 4,
+                "unit": "fillets",
+                "_id": "66053ac229f983c33cfa2b03"
+            },
+            {
+                "name": "All-purpose flour",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "66053ac229f983c33cfa2b04"
+            },
+            {
+                "name": "Butter",
+                "amount": 4,
+                "unit": "tablespoons",
+                "_id": "66053ac229f983c33cfa2b05"
+            },
+            {
+                "name": "Salt",
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "_id": "66053ac229f983c33cfa2b06"
+            },
+            {
+                "name": "Pepper",
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "_id": "66053ac229f983c33cfa2b07"
+            },
+            {
+                "name": "Lemon juice",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "66053ac229f983c33cfa2b08"
+            },
+            {
+                "name": "Fresh parsley",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "66053ac229f983c33cfa2b09"
+            }
+        ],
+        "price": 179,
+        "avgRating": 4.5
+    },
+    {
+        "_id": "66053b3929f983c33cfa2bfa",
+        "title": "French Ratatouille",
+        "description": "A classic French vegetable stew made with tomatoes, eggplant, zucchini, bell peppers, and herbs.",
+        "imageUrl": "https://www.allrecipes.com/thmb/F1rucOY3FQT5Ic0oyxdLoqU_yKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222006-disneys-ratatouille-DDMFS-4x3-36eb15843ab548a79e7aab761dac92e1.jpg",
+        "timeInMins": 60,
+        "categories": [
+            "Vegetarian",
+            "French",
+            "Stew"
+        ],
+        "instructions": [
+            "Heat olive oil in a large skillet over medium heat.",
+            "Add chopped onions, garlic, and bell peppers. Cook until softened.",
+            "Add diced tomatoes, eggplant, and zucchini to the skillet. Cook until vegetables are tender.",
+            "Season with salt, pepper, and herbs. Serve hot or cold."
+        ],
+        "ingredients": [
+            {
+                "name": "Tomatoes",
+                "amount": 4,
+                "unit": "medium",
+                "_id": "66053b3929f983c33cfa2bfb"
+            },
+            {
+                "name": "Eggplant",
+                "amount": 1,
+                "unit": "large",
+                "_id": "66053b3929f983c33cfa2bfc"
+            },
+            {
+                "name": "Zucchini",
+                "amount": 2,
+                "unit": "medium",
+                "_id": "66053b3929f983c33cfa2bfd"
+            },
+            {
+                "name": "Bell peppers",
+                "amount": 2,
+                "unit": "medium",
+                "_id": "66053b3929f983c33cfa2bfe"
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "large",
+                "_id": "66053b3929f983c33cfa2bff"
+            },
+            {
+                "name": "Garlic cloves",
+                "amount": 2,
+                "unit": "cloves",
+                "_id": "66053b3929f983c33cfa2c00"
+            },
+            {
+                "name": "Olive oil",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "66053b3929f983c33cfa2c01"
+            },
+            {
+                "name": "Salt",
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "_id": "66053b3929f983c33cfa2c02"
+            },
+            {
+                "name": "Pepper",
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "_id": "66053b3929f983c33cfa2c03"
+            },
+            {
+                "name": "Herbs (such as thyme, basil, parsley)",
+                "amount": null,
+                "_id": "66053b3929f983c33cfa2c04"
+            }
+        ],
+        "price": 229,
+        "avgRating": 5
+    },
+    {
+        "_id": "66053c8e29f983c33cfa580b",
+        "title": "Spaghetti Bolognese",
+        "description": "A classic Italian main course with meat sauce",
+        "imageUrl": "https://shared.cdn.smp.schibsted.com/v2/images/d22c924a-1b57-41f8-b325-2499c029e76f?fit=crop&h=613&w=1000&s=32cae29106972a1038ec31745de85554c1dd5e5a",
+        "timeInMins": 45,
+        "categories": [
+            "Dinner",
+            "Italian"
+        ],
+        "instructions": [
+            "Fry onion and garlic",
+            "Add minced meat and tomato sauce",
+            "Cook spaghetti separately"
+        ],
+        "ingredients": [
+            {
+                "name": "Minced meat",
+                "amount": 500,
+                "unit": "g",
+                "_id": "66053c8e29f983c33cfa580c"
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "pcs",
+                "_id": "66053c8e29f983c33cfa580d"
+            },
+            {
+                "name": "Garlic",
+                "amount": 2,
+                "unit": "cloves",
+                "_id": "66053c8e29f983c33cfa580e"
+            },
+            {
+                "name": "Tomato sauce",
+                "amount": 400,
+                "unit": "g",
+                "_id": "66053c8e29f983c33cfa580f"
+            }
+        ],
+        "price": 119,
+        "avgRating": 3.52
+    },
+    {
+        "_id": "66053cc329f983c33cfa5ef2",
+        "title": "Paella",
+        "description": "A Spanish-inspired rice dish with seafood and chicken",
+        "imageUrl": "https://www.zeta.nu/app/uploads/2016/03/Paella_med_musslor_och_r%C3%A4kor_li-2048x1365.jpg",
+        "timeInMins": 60,
+        "categories": [
+            "Diner",
+            "Spanish"
+        ],
+        "instructions": [
+            "Sear chicken and seafood",
+            "Add rice and broth",
+            "Simmer until rice is cooked"
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken thighs",
+                "amount": 4,
+                "unit": "pcs",
+                "_id": "66053cc329f983c33cfa5ef3"
+            },
+            {
+                "name": "Seafood (shrimp, mussels)",
+                "amount": 300,
+                "unit": "g",
+                "_id": "66053cc329f983c33cfa5ef4"
+            },
+            {
+                "name": "Rice",
+                "amount": 300,
+                "unit": "g",
+                "_id": "66053cc329f983c33cfa5ef5"
+            },
+            {
+                "name": "Chicken broth",
+                "amount": 700,
+                "unit": "ml",
+                "_id": "66053cc329f983c33cfa5ef6"
+            }
+        ],
+        "price": 199,
+        "avgRating": 5
+    },
+    {
+        "_id": "66053cf329f983c33cfa742e",
+        "title": "Chicken Alfredo Pasta",
+        "description": "Creamy Alfredo pasta with grilled chicken",
+        "imageUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2020/01/Chicken-Parmesan-square-FS-38.jpg",
+        "timeInMins": 30,
+        "categories": [
+            "Diner",
+            "Italian"
+        ],
+        "instructions": [
+            "Cook fettuccine pasta",
+            "Grill chicken and slice",
+            "Prepare creamy Alfredo sauce",
+            "Combine and serve"
+        ],
+        "ingredients": [
+            {
+                "name": "Fettuccine pasta",
+                "amount": 300,
+                "unit": "g",
+                "_id": "66053cf329f983c33cfa742f"
+            },
+            {
+                "name": "Chicken breast",
+                "amount": 2,
+                "unit": "pcs",
+                "_id": "66053cf329f983c33cfa7430"
+            },
+            {
+                "name": "Heavy cream",
+                "amount": 200,
+                "unit": "ml",
+                "_id": "66053cf329f983c33cfa7431"
+            },
+            {
+                "name": "Parmesan cheese",
+                "amount": 100,
+                "unit": "g",
+                "_id": "66053cf329f983c33cfa7432"
+            }
+        ],
+        "price": 169,
+        "avgRating": 4
+    },
+    {
+        "_id": "66053d1d29f983c33cfa8567",
+        "title": "Sushi Rolls",
+        "description": "Assorted sushi rolls with fresh seafood",
+        "imageUrl": "https://images.arla.com/recordid/6CCC0216-F0D5-4B04-A711D1C83CFBC48B/california-rolls.jpg?format=jpg&width=1269&height=715&mode=crop&crop=(0,59,0,-89)",
+        "timeInMins": 45,
+        "categories": [
+            "Dinner",
+            "Japanese",
+            "Lunch"
+        ],
+        "instructions": [
+            "Cut the roll into fine pieces",
+            "Serve on nice plates",
+            "sluta ta bort mina grejer"
+        ],
+        "ingredients": [
+            {
+                "name": "Sushi rice",
+                "amount": 2,
+                "unit": "cups",
+                "_id": "66053d1d29f983c33cfa8568"
+            },
+            {
+                "name": "Fresh seafood",
+                "amount": 200,
+                "unit": "g",
+                "_id": "66053d1d29f983c33cfa8569"
+            },
+            {
+                "name": "Nori (seaweed)",
+                "amount": 10,
+                "unit": "sheets",
+                "_id": "66053d1d29f983c33cfa856a"
+            },
+            {
+                "name": "Soy sauce",
+                "amount": 50,
+                "unit": "ml",
+                "_id": "66053d1d29f983c33cfa856b"
+            }
+        ],
+        "price": 149,
+        "avgRating": 5
+    },
+    {
+        "_id": "66053d5b29f983c33cfa955d",
+        "title": "Margherita Pizza",
+        "description": "A simple and classic Italian pizza with tomato sauce, mozzarella, and basil.",
+        "imageUrl": "https://images.prismic.io/eataly-us/ed3fcec7-7994-426d-a5e4-a24be5a95afd_pizza-recipe-main.jpg?auto=compress,format",
+        "timeInMins": 20,
+        "categories": [
+            "Dinner",
+            "Italian",
+            "Vegetarian"
+        ],
+        "instructions": [
+            "Roll out pizza dough on a baking sheet and spread tomato sauce evenly over the dough.",
+            "Dice the mozzarella and distribute over the tomato sauce.",
+            "Sprinkle with fresh basil and a little salt.",
+            "Bake in the oven at the highest temperature until the pizza is golden brown and bubbling, about 10-12 minutes.",
+            "Serve immediately and enjoy the Italian classic!"
+        ],
+        "ingredients": [
+            {
+                "name": "Pizza dough",
+                "amount": 1,
+                "unit": "package",
+                "_id": "66053d5b29f983c33cfa955e"
+            },
+            {
+                "name": "Tomato sauce",
+                "amount": 200,
+                "unit": "g",
+                "_id": "66053d5b29f983c33cfa955f"
+            },
+            {
+                "name": "Mozzarella",
+                "amount": 200,
+                "unit": "g",
+                "_id": "66053d5b29f983c33cfa9560"
+            },
+            {
+                "name": "salt",
+                "amount": 1,
+                "_id": "66053d5b29f983c33cfa9561"
+            }
+        ],
+        "price": 129,
+        "avgRating": 4
+    },
+    {
+        "_id": "66053e7429f983c33cfa9c74",
+        "title": "Carbonara",
+        "description": "A classic Italian pasta with creamy egg sauce, pancetta, and grated Parmesan.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Espaguetis_carbonara.jpg",
+        "timeInMins": 30,
+        "categories": [
+            "Dinner",
+            "Italian",
+            "Poultry"
+        ],
+        "instructions": [
+            "Cook the pasta according to the package instructions.",
+            "Fry pancetta or bacon until crispy in a frying pan.",
+            "Mix eggs, grated Parmesan, and black pepper in a bowl.",
+            "Drain the pasta and mix with the egg mixture.",
+            "Add fried pancetta or bacon and mix well.",
+            "Serve immediately and top with more grated Parmesan and black pepper to taste."
+        ],
+        "ingredients": [
+            {
+                "name": "Spaghetti",
+                "amount": 300,
+                "unit": "g",
+                "_id": "66053e7429f983c33cfa9c75"
+            },
+            {
+                "name": "Eggs",
+                "amount": 2,
+                "unit": "pcs",
+                "_id": "66053e7429f983c33cfa9c76"
+            },
+            {
+                "name": "Parmesan",
+                "amount": 100,
+                "unit": "g",
+                "_id": "66053e7429f983c33cfa9c77"
+            },
+            {
+                "name": "Pancetta or bacon",
+                "amount": 150,
+                "unit": "g",
+                "_id": "66053e7429f983c33cfa9c78"
+            },
+            {
+                "name": "Black pepper",
+                "amount": 0.5,
+                "unit": "",
+                "_id": "66053e7429f983c33cfa9c79"
+            }
+        ],
+        "price": 135,
+        "avgRating": 4.25
+    },
+    {
+        "_id": "66053fad29f983c33cfadab6",
+        "title": "Thai Fish Curry",
+        "description": "A flavorful Thai curry made with tender fish fillets, coconut milk, and aromatic Thai spices.",
+        "imageUrl": "https://simply-delicious-food.com/wp-content/uploads/2021/08/Thai-red-curry-fish-4.jpg",
+        "timeInMins": 45,
+        "categories": [
+            "Fish",
+            "Thai",
+            "Dinner"
+        ],
+        "instructions": [
+            "In a large pan, heat coconut milk over medium heat.",
+            "Add Thai curry paste and stir until fragrant.",
+            "Add fish fillets, vegetables, and fish sauce. Simmer until fish is cooked through.",
+            "Garnish with fresh herbs and serve hot with steamed rice."
+        ],
+        "ingredients": [
+            {
+                "name": "White fish fillets",
+                "amount": 4,
+                "unit": "fillets",
+                "_id": "66053fad29f983c33cfadab7"
+            },
+            {
+                "name": "Coconut milk",
+                "amount": 1,
+                "unit": "can",
+                "_id": "66053fad29f983c33cfadab8"
+            },
+            {
+                "name": "Thai curry paste",
+                "amount": 2,
+                "unit": "tablespoon",
+                "_id": "66053fad29f983c33cfadab9"
+            },
+            {
+                "name": "Mixed vegetables (such as bell peppers, zucchini, and carrots)",
+                "amount": 2,
+                "unit": "cups",
+                "_id": "66053fad29f983c33cfadaba"
+            },
+            {
+                "name": "Fish sauce",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "66053fad29f983c33cfadabb"
+            },
+            {
+                "name": "Fresh herbs (such as cilantro and Thai basil)",
+                "amount": 1,
+                "unit": "pot",
+                "_id": "66053fad29f983c33cfadabc"
+            },
+            {
+                "name": "Steamed rice",
+                "amount": 2,
+                "unit": "cups",
+                "_id": "66053fad29f983c33cfadabd"
+            }
+        ],
+        "price": 165,
+        "avgRating": 4
+    },
+    {
+        "_id": "6605404f29f983c33cfae28c",
+        "title": "Scandinavian Grilled Salmon",
+        "description": "A simple and delicious Scandinavian dish featuring grilled salmon marinated in a tangy dill sauce.",
+        "imageUrl": "https://www.thecookierookie.com/wp-content/uploads/2023/05/featured-grilled-salmon-recipe.jpg",
+        "timeInMins": 30,
+        "categories": [
+            "Fish",
+            "Scandinavian",
+            "Dinner"
+        ],
+        "instructions": [
+            "In a bowl, mix together olive oil, lemon juice, dill, and garlic.",
+            "Marinate salmon fillets in the mixture for 15-30 minutes.",
+            "Preheat grill to medium-high heat. Grill salmon for 4-5 minutes on each side, or until cooked through.",
+            "Serve hot with a side of roasted vegetables or boiled potatoes."
+        ],
+        "ingredients": [
+            {
+                "name": "Salmon fillets",
+                "amount": 4,
+                "unit": "fillets",
+                "_id": "6605404f29f983c33cfae28d"
+            },
+            {
+                "name": "Olive oil",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "6605404f29f983c33cfae28e"
+            },
+            {
+                "name": "Lemon juice",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6605404f29f983c33cfae28f"
+            },
+            {
+                "name": "Fresh dill",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6605404f29f983c33cfae290"
+            },
+            {
+                "name": "Garlic cloves",
+                "amount": 2,
+                "unit": "cloves",
+                "_id": "6605404f29f983c33cfae291"
+            },
+            {
+                "name": "Salt",
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "_id": "6605404f29f983c33cfae292"
+            },
+            {
+                "name": "Pepper",
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "_id": "6605404f29f983c33cfae293"
+            },
+            {
+                "name": "Roasted vegetables or boiled potatoes",
+                "amount": 1,
+                "unit": "kg",
+                "_id": "6605404f29f983c33cfae294"
+            }
+        ],
+        "price": 189,
+        "avgRating": 5
+    },
+    {
+        "_id": "6605421729f983c33cfaf5eb",
+        "title": "Mexican Fish Tacos",
+        "description": "Delicious and zesty fish tacos made with crispy fried fish, fresh salsa, and tangy lime crema.",
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/fish-tacos-index-64ca974954d47.jpg?crop=0.7503703703703705xw:1xh;center,top&resize=1200:*",
+        "timeInMins": 40,
+        "categories": [
+            "Fish",
+            "Mexican",
+            "Dinner"
+        ],
+        "instructions": [
+            "Prepare the fish by seasoning with spices and dredging in flour.",
+            "Fry the fish until golden and crispy.",
+            "Assemble tacos by filling tortillas with fried fish, salsa, shredded cabbage, and lime crema.",
+            "Serve hot with extra lime wedges and hot sauce on the side."
+        ],
+        "ingredients": [
+            {
+                "name": "White fish fillets",
+                "amount": 4,
+                "unit": "fillets",
+                "_id": "6605421729f983c33cfaf5ec"
+            },
+            {
+                "name": "All-purpose flour",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "6605421729f983c33cfaf5ed"
+            },
+            {
+                "name": "Mexican spices (such as chili powder, cumin, and paprika)",
+                "amount": 0.5,
+                "unit": "cups",
+                "_id": "6605421729f983c33cfaf5ee"
+            },
+            {
+                "name": "Corn tortillas",
+                "amount": 8,
+                "unit": "tortillas",
+                "_id": "6605421729f983c33cfaf5ef"
+            },
+            {
+                "name": "Shredded cabbage",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "6605421729f983c33cfaf5f0"
+            },
+            {
+                "name": "Fresh salsa",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "6605421729f983c33cfaf5f1"
+            },
+            {
+                "name": "Lime crema",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "6605421729f983c33cfaf5f2"
+            },
+            {
+                "name": "Lime wedges",
+                "amount": null,
+                "unit": "",
+                "_id": "6605421729f983c33cfaf5f3"
+            },
+            {
+                "name": "Hot sauce",
+                "amount": null,
+                "unit": "",
+                "_id": "6605421729f983c33cfaf5f4"
+            }
+        ],
+        "price": 125,
+        "avgRating": 5
+    },
+    {
+        "_id": "6605438929f983c33cfb0351",
+        "title": "Japanese Chicken Teriyaki",
+        "description": "Tender chicken thighs glazed with a sweet and savory teriyaki sauce, served with steamed rice and vegetables.",
+        "imageUrl": "https://s23209.pcdn.co/wp-content/uploads/2023/05/230125_DD_Grilled-Teriyaki-Chicken_478.jpg",
+        "timeInMins": 45,
+        "categories": [
+            "Japanese",
+            "Chicken",
+            "Dinner"
+        ],
+        "instructions": [
+            "In a bowl, mix soy sauce, mirin, brown sugar, minced garlic, and minced ginger to make the teriyaki sauce.",
+            "Heat vegetable oil in a skillet over medium-high heat.",
+            "Add chicken thighs to the skillet and cook until browned on both sides.",
+            "Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and coats the chicken evenly.",
+            "Serve the chicken teriyaki hot with steamed rice and vegetables.",
+            "Garnish with sliced green onions and sesame seeds."
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken thighs",
+                "amount": 4,
+                "unit": "pieces",
+                "_id": "6605438929f983c33cfb0352"
+            },
+            {
+                "name": "Soy sauce",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "6605438929f983c33cfb0353"
+            },
+            {
+                "name": "Mirin",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "6605438929f983c33cfb0354"
+            },
+            {
+                "name": "Brown sugar",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6605438929f983c33cfb0355"
+            },
+            {
+                "name": "Garlic",
+                "amount": 2,
+                "unit": "cloves",
+                "_id": "6605438929f983c33cfb0356"
+            },
+            {
+                "name": "Ginger",
+                "amount": 1,
+                "unit": "teaspoon",
+                "_id": "6605438929f983c33cfb0357"
+            },
+            {
+                "name": "Vegetable oil",
+                "amount": 1,
+                "unit": "tablespoons",
+                "_id": "6605438929f983c33cfb0358"
+            },
+            {
+                "name": "Steamed rice",
+                "amount": 2,
+                "unit": "cups",
+                "_id": "6605438929f983c33cfb0359"
+            },
+            {
+                "name": "Steamed vegetables",
+                "amount": 1,
+                "unit": "kg",
+                "_id": "6605438929f983c33cfb035a"
+            },
+            {
+                "name": "Green onions",
+                "amount": null,
+                "unit": "",
+                "_id": "6605438929f983c33cfb035b"
+            },
+            {
+                "name": "Sesame seeds",
+                "amount": null,
+                "unit": "",
+                "_id": "6605438929f983c33cfb035c"
+            }
+        ],
+        "price": 149,
+        "avgRating": 4.5
+    },
+    {
+        "_id": "6605461029f983c33cfb1954",
+        "title": "Quinoa Salad with Chickpeas",
+        "description": "A nutritious and protein-packed salad featuring quinoa, chickpeas, colorful vegetables, and a zesty lemon dressing.",
+        "imageUrl": "https://www.recipetineats.com/wp-content/uploads/2021/03/My-Favourite-Quinoa-Salad-5-SQ.jpg",
+        "timeInMins": 30,
+        "categories": [
+            "Vegetarian",
+            "Lunch"
+        ],
+        "instructions": [
+            "Cook quinoa according to package instructions and let it cool.",
+            "In a large bowl, combine cooked quinoa, drained and rinsed chickpeas, diced vegetables, and chopped parsley.",
+            "In a small bowl, whisk together olive oil, lemon juice, garlic, salt, and pepper to make the dressing.",
+            "Pour the dressing over the quinoa salad and toss to coat evenly.",
+            "Chill the salad in the refrigerator for at least 30 minutes before serving.",
+            "Garnish with additional parsley before serving, if desired."
+        ],
+        "ingredients": [
+            {
+                "name": "Quinoa",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "6605461029f983c33cfb1955"
+            },
+            {
+                "name": "Chickpeas",
+                "amount": 1,
+                "unit": "can",
+                "_id": "6605461029f983c33cfb1956"
+            },
+            {
+                "name": "Assorted vegetables",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "6605461029f983c33cfb1957"
+            },
+            {
+                "name": "Fresh parsley",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "6605461029f983c33cfb1958"
+            },
+            {
+                "name": "Olive oil",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6605461029f983c33cfb1959"
+            },
+            {
+                "name": "Lemon juice",
+                "amount": 1,
+                "unit": "tablespoon",
+                "_id": "6605461029f983c33cfb195a"
+            },
+            {
+                "name": "Garlic",
+                "amount": 1,
+                "unit": "clove",
+                "_id": "6605461029f983c33cfb195b"
+            },
+            {
+                "name": "Salt",
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "_id": "6605461029f983c33cfb195c"
+            },
+            {
+                "name": "Black pepper",
+                "amount": 0.2,
+                "unit": "teaspoon",
+                "_id": "6605461029f983c33cfb195d"
+            }
+        ],
+        "price": 129,
+        "avgRating": 3.4705882352941178
+    },
+    {
+        "_id": "6605ff9e29f983c33c1cc5e7",
+        "title": "Pad Thai",
+        "description": "Pad thai, the perfect Stir-Fried",
+        "imageUrl": "https://inquiringchef.com/wp-content/uploads/2023/02/Authentic-Pad-Thai_square-1908.jpg",
+        "timeInMins": 30,
+        "categories": [
+            "Thai",
+            "Dinner",
+            "Meat",
+            "Seafood"
+        ],
+        "instructions": [
+            "Soak the rice noodles in warm water until they are pliable but still slightly firm. Drain and set aside.",
+            "Heat oil in a wok or large skillet over medium-high heat. Add minced garlic and diced tofu, stirring until tofu is golden brown.",
+            "Push the tofu to one side of the pan and crack eggs into the other side. Scramble the eggs until they are cooked, then mix them with the tofu.",
+            "Add the soaked rice noodles to the pan, along with",
+            "Add the prepared sauce to the pan, stirring well to coat the noodles and tofu evenly. Cook until the noodles are tender and the sauce has thickened.",
+            "Serve hot, garnished with crushed peanuts, lime wedges, and fresh herbs."
+        ],
+        "ingredients": [
+            {
+                "name": "Rice noodles",
+                "amount": 200,
+                "unit": "grams",
+                "_id": "6605ff9e29f983c33c1cc5e8"
+            },
+            {
+                "name": "Tofu",
+                "amount": 200,
+                "unit": "grams",
+                "_id": "6605ff9e29f983c33c1cc5e9"
+            },
+            {
+                "name": "Garlic",
+                "amount": 2,
+                "unit": "cloves",
+                "_id": "6605ff9e29f983c33c1cc5ea"
+            },
+            {
+                "name": "Eggs",
+                "amount": 2,
+                "_id": "6605ff9e29f983c33c1cc5eb"
+            },
+            {
+                "name": "Oil",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6605ff9e29f983c33c1cc5ec"
+            },
+            {
+                "name": "Tamarind paste",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6605ff9e29f983c33c1cc5ed"
+            },
+            {
+                "name": "Fish sauce",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6605ff9e29f983c33c1cc5ee"
+            },
+            {
+                "name": "Sugar",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6605ff9e29f983c33c1cc5ef"
+            },
+            {
+                "name": "Crushed peanuts",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "6605ff9e29f983c33c1cc5f0"
+            },
+            {
+                "name": "Lime wedges",
+                "amount": 2,
+                "_id": "6605ff9e29f983c33c1cc5f1"
+            },
+            {
+                "name": "Fresh herbs (such as cilantro and Thai basil)",
+                "amount": 1,
+                "unit": "handful",
+                "_id": "6605ff9e29f983c33c1cc5f2"
+            }
+        ],
+        "price": 135,
+        "avgRating": 5
+    },
+    {
+        "_id": "6606059429f983c33c1cf224",
+        "title": "Green Curry Chicken",
+        "description": "A classic Thai curry made with green curry paste, coconut milk, and chicken.",
+        "imageUrl": "https://i0.wp.com/www.valerieskeepers.com/wp-content/uploads/2017/01/green-curry-chicken-6-1-sur-1.jpg?resize=5184%2C3456&ssl=1",
+        "timeInMins": 40,
+        "categories": [
+            "Thai",
+            "Dinner",
+            "Poultry",
+            "Lunch"
+        ],
+        "instructions": [
+            "Heat green curry paste in a pan until fragrant.",
+            "Add coconut milk and bring to a simmer.",
+            "Add sliced chicken breast and simmer until cooked through.",
+            "Add sliced bamboo shoots, bell peppers, and Thai eggplant.",
+            "Season with fish sauce, sugar, and kaffir lime leaves.",
+            "Serve hot with steamed rice."
+        ],
+        "ingredients": [
+            {
+                "name": "Green curry paste",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6606059429f983c33c1cf225"
+            },
+            {
+                "name": "Coconut milk",
+                "amount": 2,
+                "unit": "cups",
+                "_id": "6606059429f983c33c1cf226"
+            },
+            {
+                "name": "Chicken breast",
+                "amount": 2,
+                "unit": "pieces",
+                "_id": "6606059429f983c33c1cf227"
+            },
+            {
+                "name": "Bamboo shoots",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "6606059429f983c33c1cf228"
+            },
+            {
+                "name": "Bell peppers",
+                "amount": 1,
+                "unit": "piece",
+                "_id": "6606059429f983c33c1cf229"
+            },
+            {
+                "name": "Thai eggplant",
+                "amount": 4,
+                "unit": "pieces",
+                "_id": "6606059429f983c33c1cf22a"
+            },
+            {
+                "name": "Fish sauce",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6606059429f983c33c1cf22b"
+            },
+            {
+                "name": "Sugar",
+                "amount": 1,
+                "unit": "teaspoon",
+                "_id": "6606059429f983c33c1cf22c"
+            },
+            {
+                "name": "Kaffir lime leaves",
+                "amount": 4,
+                "unit": "leaves",
+                "_id": "6606059429f983c33c1cf22d"
+            },
+            {
+                "name": "Steamed rice",
+                "amount": 2,
+                "unit": "cups",
+                "_id": "6606059429f983c33c1cf22e"
+            }
+        ],
+        "price": 109,
+        "avgRating": 2.5
+    },
+    {
+        "_id": "6606a9b829f983c33c1d90fc",
+        "title": "Chicken Caesar Wrap",
+        "description": "A satisfying wrap filled with grilled chicken, crisp romaine lettuce, Parmesan cheese, and Caesar dressing.",
+        "imageUrl": "https://www.simplejoy.com/wp-content/uploads/2020/07/Chicken-wrap.jpg",
+        "timeInMins": 20,
+        "categories": [
+            "Poultry",
+            "Lunch"
+        ],
+        "instructions": [
+            "Grill chicken breasts until fully cooked.",
+            "Slice grilled chicken into strips.",
+            "Lay a large tortilla flat and spread Caesar dressing over it.",
+            "Place sliced grilled chicken, romaine lettuce leaves, and shredded Parmesan cheese on top of the dressing.",
+            "Wrap the tortilla tightly around the filling ingredients.",
+            "Slice the wrap in half diagonally and serve immediately."
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken breasts",
+                "amount": 2,
+                "unit": "piece",
+                "_id": "6606a9b829f983c33c1d90fd"
+            },
+            {
+                "name": "Romaine lettuce leaves",
+                "amount": 4,
+                "unit": "large",
+                "_id": "6606a9b829f983c33c1d90fe"
+            },
+            {
+                "name": "Parmesan cheese",
+                "amount": 0.2,
+                "unit": "cup",
+                "_id": "6606a9b829f983c33c1d90ff"
+            },
+            {
+                "name": "Caesar dressing",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6606a9b829f983c33c1d9100"
+            },
+            {
+                "name": "Large tortillas",
+                "amount": 4,
+                "unit": "pieces",
+                "_id": "6606a9b829f983c33c1d9101"
+            }
+        ],
+        "price": 99,
+        "avgRating": 3
+    },
+    {
+        "_id": "6606b50c29f983c33c1df23b",
+        "title": "Thai Basil Chicken Stir-Fry",
+        "description": "A flavorful and aromatic stir-fry dish featuring tender chicken, fresh basil, and Thai spices.",
+        "imageUrl": "https://thewoksoflife.com/wp-content/uploads/2016/06/thai-basil-chicken-8.jpg",
+        "timeInMins": 30,
+        "categories": [
+            "Thai",
+            "Dinner",
+            "Poultry"
+        ],
+        "instructions": [
+            "Heat oil in a wok or large skillet over high heat.",
+            "Add minced garlic and sliced chicken breast, stir-frying until chicken is cooked through.",
+            "Add chopped bell peppers, onions, and Thai basil leaves to the wok, stirring constantly.",
+            "Pour in a mixture of soy sauce, fish sauce, oyster sauce, and sugar.",
+            "Continue stir-frying until the vegetables are tender and the sauce has thickened.",
+            "Serve hot with steamed rice."
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken breast",
+                "amount": 2,
+                "unit": "pieces",
+                "_id": "6606b50c29f983c33c1df23c"
+            },
+            {
+                "name": "Garlic",
+                "amount": 3,
+                "unit": "cloves",
+                "_id": "6606b50c29f983c33c1df23d"
+            },
+            {
+                "name": "Bell peppers",
+                "amount": 1,
+                "unit": "piece",
+                "_id": "6606b50c29f983c33c1df23e"
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "medium",
+                "_id": "6606b50c29f983c33c1df23f"
+            },
+            {
+                "name": "Thai basil leaves",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "6606b50c29f983c33c1df240"
+            },
+            {
+                "name": "Soy sauce",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6606b50c29f983c33c1df241"
+            },
+            {
+                "name": "Fish sauce",
+                "amount": 1,
+                "unit": "tablespoon",
+                "_id": "6606b50c29f983c33c1df242"
+            },
+            {
+                "name": "Oyster sauce",
+                "amount": 1,
+                "unit": "tablespoon",
+                "_id": "6606b50c29f983c33c1df243"
+            },
+            {
+                "name": "Sugar",
+                "amount": 1,
+                "unit": "teaspoon",
+                "_id": "6606b50c29f983c33c1df244"
+            },
+            {
+                "name": "Oil",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6606b50c29f983c33c1df245"
+            },
+            {
+                "name": "Steamed rice",
+                "amount": 2,
+                "unit": "cups",
+                "_id": "6606b50c29f983c33c1df246"
+            }
+        ],
+        "price": 139,
+        "avgRating": 4
+    },
+    {
+        "_id": "6606b58629f983c33c1df2a0",
+        "title": "Italian Beef Lasagna",
+        "description": "A classic Italian pasta dish made with layers of lasagna noodles, savory beef sauce, and creamy cheese filling.",
+        "imageUrl": "https://thelemonapron.com/wp-content/uploads/2017/01/Photo-2017-01-15-1-37-16-PM-e1485442231918.jpg",
+        "timeInMins": 60,
+        "categories": [
+            "Meat",
+            "Italian",
+            "Dinner"
+        ],
+        "instructions": [
+            "Preheat the oven to 375°F (190°C).",
+            "Cook lasagna noodles according to package instructions until al dente. Drain and set aside.",
+            "In a large skillet, cook ground beef with diced onions and minced garlic until browned.",
+            "Add crushed tomatoes, tomato paste, Italian seasoning, salt, and pepper to the skillet. Simmer for 10-15 minutes.",
+            "In a separate bowl, mix together ricotta cheese, egg, grated Parmesan cheese, and chopped parsley.",
+            "Spread a layer of meat sauce on the bottom of a baking dish. Arrange a layer of cooked lasagna noodles on top.",
+            "Spread a layer of ricotta cheese mixture over the noodles, then add another layer of meat sauce. Repeat the layers.",
+            "Top the lasagna with shredded mozzarella cheese.",
+            "Cover the baking dish with aluminum foil and bake for 30 minutes. Remove the foil and bake for an additional 15 minutes or until bubbly and golden brown.",
+            "Let the lasagna cool for a few minutes before serving."
+        ],
+        "ingredients": [
+            {
+                "name": "Lasagna noodles",
+                "amount": 4,
+                "unit": "kg",
+                "_id": "6606b58629f983c33c1df2a1"
+            },
+            {
+                "name": "Ground beef",
+                "amount": 1,
+                "unit": "kg",
+                "_id": "6606b58629f983c33c1df2a2"
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "medium",
+                "_id": "6606b58629f983c33c1df2a3"
+            },
+            {
+                "name": "Garlic",
+                "amount": 3,
+                "unit": "cloves",
+                "_id": "6606b58629f983c33c1df2a4"
+            },
+            {
+                "name": "Crushed tomatoes",
+                "amount": 2,
+                "unit": "kg",
+                "_id": "6606b58629f983c33c1df2a5"
+            },
+            {
+                "name": "Tomato paste",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6606b58629f983c33c1df2a6"
+            },
+            {
+                "name": "Italian seasoning",
+                "amount": 2,
+                "unit": "teaspoons",
+                "_id": "6606b58629f983c33c1df2a7"
+            },
+            {
+                "name": "Salt",
+                "amount": 1,
+                "unit": "teaspoon",
+                "_id": "6606b58629f983c33c1df2a8"
+            },
+            {
+                "name": "Black pepper",
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "_id": "6606b58629f983c33c1df2a9"
+            },
+            {
+                "name": "Ricotta cheese",
+                "amount": 1,
+                "unit": "kg",
+                "_id": "6606b58629f983c33c1df2aa"
+            },
+            {
+                "name": "Egg",
+                "amount": 1,
+                "unit": "piece",
+                "_id": "6606b58629f983c33c1df2ab"
+            },
+            {
+                "name": "Parmesan cheese",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "6606b58629f983c33c1df2ac"
+            },
+            {
+                "name": "Fresh parsley",
+                "amount": 0.25,
+                "unit": "cup",
+                "_id": "6606b58629f983c33c1df2ad"
+            },
+            {
+                "name": "Mozzarella cheese",
+                "amount": 2,
+                "unit": "cups",
+                "_id": "6606b58629f983c33c1df2ae"
+            }
+        ],
+        "price": 155,
+        "avgRating": 5
+    },
+    {
+        "_id": "6606b5ec29f983c33c1df7ad",
+        "title": "Scandinavian Meatballs",
+        "description": "Tender and flavorful meatballs made with a blend of ground meats and served with creamy lingonberry sauce.",
+        "imageUrl": "https://www.skinnytaste.com/wp-content/uploads/2011/05/Swedish-Meatballs-5.jpg",
+        "timeInMins": 45,
+        "categories": [
+            "Meat ,Scandinavian ,Dinner"
+        ],
+        "instructions": [
+            "In a large bowl, mix together ground beef, ground pork, breadcrumbs, minced onion, egg, salt, pepper, and allspice until well combined.",
+            "Shape the meat mixture into small meatballs, about 1 inch in diameter.",
+            "Heat oil in a large skillet over medium-high heat. Add the meatballs and brown on all sides.",
+            "Reduce the heat to medium and continue cooking until the meatballs are cooked through.",
+            "In a separate saucepan, heat lingonberry jam or lingonberry sauce until warmed through.",
+            "Serve the meatballs hot with lingonberry sauce and mashed potatoes or lingonberry sauce.",
+            "Garnish with chopped parsley, if desired."
+        ],
+        "ingredients": [
+            {
+                "name": "Ground beef",
+                "amount": 0.5,
+                "unit": "kg",
+                "_id": "6606b5ec29f983c33c1df7ae"
+            },
+            {
+                "name": "Ground pork",
+                "amount": 0.5,
+                "unit": "kg",
+                "_id": "6606b5ec29f983c33c1df7af"
+            },
+            {
+                "name": "Breadcrumbs",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "6606b5ec29f983c33c1df7b0"
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "small",
+                "_id": "6606b5ec29f983c33c1df7b1"
+            },
+            {
+                "name": "Egg",
+                "amount": 1,
+                "unit": "piece",
+                "_id": "6606b5ec29f983c33c1df7b2"
+            },
+            {
+                "name": "Salt",
+                "amount": 1,
+                "unit": "teaspoon",
+                "_id": "6606b5ec29f983c33c1df7b3"
+            },
+            {
+                "name": "Black pepper",
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "_id": "6606b5ec29f983c33c1df7b4"
+            },
+            {
+                "name": "Allspice",
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "_id": "6606b5ec29f983c33c1df7b5"
+            },
+            {
+                "name": "Oil",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6606b5ec29f983c33c1df7b6"
+            },
+            {
+                "name": "Lingonberry jam or sauce",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "6606b5ec29f983c33c1df7b7"
+            },
+            {
+                "name": "Mashed potatoes",
+                "amount": 2,
+                "unit": "kg",
+                "_id": "6606b5ec29f983c33c1df7b8"
+            },
+            {
+                "name": "Fresh parsley",
+                "amount": 1,
+                "unit": "tablespoon",
+                "_id": "6606b5ec29f983c33c1df7b9"
+            }
+        ],
+        "price": 199,
+        "avgRating": 4
+    },
+    {
+        "_id": "6606f1f829f983c33c208322",
+        "title": "Chocolate Cake",
+        "description": "Decadent chocolate cake that melts in your mouth, perfect for satisfying your sweet tooth cravings.",
+        "imageUrl": "https://www.johner.se/images/scandinav/sketch/serie00057/scandinav_dq4t.jpg",
+        "timeInMins": 60,
+        "categories": [
+            "Dessert",
+            "American"
+        ],
+        "instructions": [
+            "Preheat the oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.",
+            "In a large mixing bowl, sift together flour, cocoa powder, baking powder, baking soda, and salt.",
+            "In another bowl, beat together eggs, sugar, and vanilla extract until creamy and well combined.",
+            "Gradually add melted butter and buttermilk to the egg mixture, mixing until smooth.",
+            "Add the wet ingredients to the dry ingredients and mix until just combined.",
+            "Divide the batter evenly between the prepared cake pans and smooth the tops with a spatula.",
+            "Bake in the preheated oven for 25-30 minutes, or until a toothpick inserted into the center comes out clean.",
+            "Remove the cakes from the oven and let them cool in the pans for 10 minutes before transferring them to a wire rack to cool completely.",
+            "Once cooled, frost the cake with your favorite chocolate frosting and serve."
+        ],
+        "ingredients": [
+            {
+                "name": "All-purpose flour",
+                "amount": 2,
+                "unit": "cups",
+                "_id": "6606f1f829f983c33c208323"
+            },
+            {
+                "name": "Cocoa powder",
+                "amount": 0.7,
+                "unit": "cups",
+                "_id": "6606f1f829f983c33c208324"
+            },
+            {
+                "name": "Baking powder",
+                "amount": 1,
+                "unit": "teaspoon",
+                "_id": "6606f1f829f983c33c208325"
+            },
+            {
+                "name": "Baking soda",
+                "amount": 1,
+                "unit": "teaspoon",
+                "_id": "6606f1f829f983c33c208326"
+            },
+            {
+                "name": "Salt",
+                "amount": 0.7,
+                "unit": "teaspoon",
+                "_id": "6606f1f829f983c33c208327"
+            },
+            {
+                "name": "Eggs",
+                "amount": 2,
+                "unit": "large",
+                "_id": "6606f1f829f983c33c208328"
+            },
+            {
+                "name": "Granulated sugar",
+                "amount": 2,
+                "unit": "cups",
+                "_id": "6606f1f829f983c33c208329"
+            },
+            {
+                "name": "Vanilla extract",
+                "amount": 2,
+                "unit": "teaspoons",
+                "_id": "6606f1f829f983c33c20832a"
+            },
+            {
+                "name": "Unsalted butter, melted",
+                "amount": 0.5,
+                "unit": "cups",
+                "_id": "6606f1f829f983c33c20832b"
+            },
+            {
+                "name": "Buttermilk",
+                "amount": 1,
+                "unit": "cups",
+                "_id": "6606f1f829f983c33c20832c"
+            },
+            {
+                "name": "Chocolate frosting",
+                "amount": null,
+                "unit": "",
+                "_id": "6606f1f829f983c33c20832d"
+            }
+        ],
+        "price": 79,
+        "avgRating": 5
+    },
+    {
+        "_id": "6606f3f529f983c33c20920b",
+        "title": "Taiyaki",
+        "description": "Taiyaki is a popular Japanese fish-shaped cake filled with sweet red bean paste. Crispy on the outside and fluffy on the inside, it's a delightful treat often enjoyed fresh off the griddle.",
+        "imageUrl": "https://i0.wp.com/tokyotreatblog.wpcomstaging.com/wp-content/uploads/2023/07/five-taiyaki-spots-japan-thumbnail.png?fit=1024%2C683&ssl=1",
+        "timeInMins": 60,
+        "categories": [
+            "Dessert",
+            "Japanese"
+        ],
+        "instructions": [
+            "In a bowl, whisk together flour, baking powder, sugar, and salt.",
+            "In another bowl, whisk together eggs, milk, and vanilla extract.",
+            "Gradually add the wet ingredients to the dry ingredients, whisking until smooth.",
+            "Heat a taiyaki pan or waffle iron and grease the molds with oil or butter.",
+            "Pour the batter into the molds, filling them halfway.",
+            "Add a spoonful of sweet red bean paste into the center of each mold.",
+            "Cover the filling with more batter, filling the molds completely.",
+            "Close the pan and cook until golden brown on both sides.",
+            "Remove the taiyaki from the pan and let them cool slightly before serving.",
+            "Enjoy the taiyaki warm, and savor the crispy exterior and soft, flavorful interior!"
+        ],
+        "ingredients": [
+            {
+                "name": "All-purpose flour",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "6606f3f529f983c33c20920c"
+            },
+            {
+                "name": "Baking powder",
+                "amount": 1,
+                "unit": "teaspoon",
+                "_id": "6606f3f529f983c33c20920d"
+            },
+            {
+                "name": "Granulated sugar",
+                "amount": 0.2,
+                "unit": "cup",
+                "_id": "6606f3f529f983c33c20920e"
+            },
+            {
+                "name": "Salt",
+                "amount": 0.2,
+                "unit": "teaspoon",
+                "_id": "6606f3f529f983c33c20920f"
+            },
+            {
+                "name": "Eggs",
+                "amount": 2,
+                "unit": "large",
+                "_id": "6606f3f529f983c33c209210"
+            },
+            {
+                "name": "Milk",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "6606f3f529f983c33c209211"
+            },
+            {
+                "name": "Vanilla extract",
+                "amount": 1,
+                "unit": "teaspoon",
+                "_id": "6606f3f529f983c33c209212"
+            },
+            {
+                "name": "Sweet red bean paste",
+                "amount": null,
+                "unit": "",
+                "_id": "6606f3f529f983c33c209213"
+            }
+        ],
+        "price": 59,
+        "avgRating": 4
+    },
+    {
+        "_id": "6606f44629f983c33c2097a7",
+        "title": "Japanese Cheesecake",
+        "description": "Japanese cheesecake is a light and fluffy dessert with a delicate flavor and silky texture. Made with cream cheese, eggs, and sugar, it's a delightful treat that melts in your mouth.",
+        "imageUrl": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1810-fluffy-japanese-cheesecake:Square-1300x1300",
+        "timeInMins": 90,
+        "categories": [
+            "Dessert",
+            "Japanese"
+        ],
+        "instructions": [
+            "Preheat the oven to 320°F (160°C). Grease and line a round cake pan with parchment paper.",
+            "In a heatproof bowl set over a pot of simmering water, melt cream cheese, butter, and milk, stirring until smooth.",
+            "Remove from heat and let the mixture cool slightly.",
+            "Whisk egg yolks and sugar together until pale and creamy.",
+            "Add the cream cheese mixture to the egg yolk mixture and whisk until well combined.",
+            "Sift in cake flour and cornstarch, and fold gently until smooth.",
+            "In a separate bowl, beat egg whites until foamy. Gradually add sugar and beat until stiff peaks form.",
+            "Fold the egg whites into the batter in three additions, being careful not to deflate the mixture.",
+            "Pour the batter into the prepared cake pan and smooth the top.",
+            "Bake in the preheated oven for about 1 hour or until the cake is set and golden brown.",
+            "Remove from the oven and let the cake cool in the pan for 10 minutes before transferring to a wire rack to cool completely.",
+            "Slice and serve the Japanese cheesecake, and enjoy its light and fluffy texture!"
+        ],
+        "ingredients": [
+            {
+                "name": "Cream cheese",
+                "amount": 8,
+                "unit": "oz",
+                "_id": "6606f44629f983c33c2097a8"
+            },
+            {
+                "name": "Unsalted butter",
+                "amount": 0.2,
+                "unit": "cup",
+                "_id": "6606f44629f983c33c2097a9"
+            },
+            {
+                "name": "Whole milk",
+                "amount": 0.2,
+                "unit": "cup",
+                "_id": "6606f44629f983c33c2097aa"
+            },
+            {
+                "name": "Egg yolks",
+                "amount": 6,
+                "unit": "large",
+                "_id": "6606f44629f983c33c2097ab"
+            },
+            {
+                "name": "Granulated sugar",
+                "amount": 0.2,
+                "unit": "cup",
+                "_id": "6606f44629f983c33c2097ac"
+            },
+            {
+                "name": "Cake flour",
+                "amount": 0.2,
+                "unit": "cup",
+                "_id": "6606f44629f983c33c2097ad"
+            },
+            {
+                "name": "Cornstarch",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6606f44629f983c33c2097ae"
+            },
+            {
+                "name": "Egg whites",
+                "amount": 6,
+                "unit": "",
+                "_id": "6606f44629f983c33c2097af"
+            }
+        ],
+        "price": 124,
+        "avgRating": 4
+    },
+    {
+        "_id": "6606f49729f983c33c209d33",
+        "title": "Smörgåstårta",
+        "description": "Layered sandwich cake with various fillings",
+        "imageUrl": "https://cdn.hemtrevligt.se/icakuriren/app/uploads/2023/05/media-smorgastarta-lax-rakor.png",
+        "timeInMins": 90,
+        "categories": [
+            "Appetizer",
+            "Scandinavian",
+            "Dinner"
+        ],
+        "instructions": [
+            "Prepare sandwich layers",
+            "Add fillings",
+            "Decorate the cake"
+        ],
+        "ingredients": [
+            {
+                "name": "White bread slices",
+                "amount": 16,
+                "unit": "pcs",
+                "_id": "6606f49729f983c33c209d34"
+            },
+            {
+                "name": "Smoked salmon",
+                "amount": 200,
+                "unit": "g",
+                "_id": "6606f49729f983c33c209d35"
+            },
+            {
+                "name": "Cream cheese",
+                "amount": 150,
+                "unit": "g",
+                "_id": "6606f49729f983c33c209d36"
+            },
+            {
+                "name": "Cucumber",
+                "amount": 1,
+                "unit": "pcs",
+                "_id": "6606f49729f983c33c209d37"
+            }
+        ],
+        "price": 119,
+        "avgRating": 4.2
+    },
+    {
+        "_id": "6608468f29f983c33c243733",
+        "title": "Baked Cod with Lemon and Herbs",
+        "description": "Baked cod with lemon and herbs is a light and flavorful dish that's easy to make and perfect for a healthy dinner. The cod fillets are seasoned with garlic, lemon zest, fresh herbs, and olive oil, then baked until tender and flaky.",
+        "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/Baked-cod-d8324c7.jpg?resize=768,574",
+        "timeInMins": 25,
+        "categories": [
+            "Fish",
+            "Baking"
+        ],
+        "instructions": [
+            "Preheat the oven to 400°F (200°C). Grease a baking dish with olive oil or cooking spray.",
+            "Place the cod fillets in the prepared baking dish, skin-side down.",
+            "In a small bowl, combine minced garlic, lemon zest, chopped parsley, salt, pepper, and olive oil. Mix well.",
+            "Spread the garlic and herb mixture evenly over the top of the cod fillets.",
+            "Bake the cod in the preheated oven for 15-20 minutes, or until the fish is opaque and flakes easily with a fork.",
+            "Remove the baked cod from the oven and serve hot, garnished with lemon wedges and additional chopped parsley, if desired."
+        ],
+        "ingredients": [
+            {
+                "name": "Cod fillets",
+                "amount": 4,
+                "unit": "",
+                "_id": "6608468f29f983c33c243734"
+            },
+            {
+                "name": "Garlic, minced",
+                "amount": 2,
+                "unit": "cloves",
+                "_id": "6608468f29f983c33c243735"
+            },
+            {
+                "name": "Lemon zest",
+                "amount": 1,
+                "unit": "teaspoon",
+                "_id": "6608468f29f983c33c243736"
+            },
+            {
+                "name": "Fresh parsley, chopped",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6608468f29f983c33c243737"
+            },
+            {
+                "name": "Salt",
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "_id": "6608468f29f983c33c243738"
+            },
+            {
+                "name": "Black pepper, freshly ground",
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "_id": "6608468f29f983c33c243739"
+            },
+            {
+                "name": "Olive oil",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "6608468f29f983c33c24373a"
+            },
+            {
+                "name": "Lemon wedges, for serving",
+                "amount": 0,
+                "unit": "",
+                "_id": "6608468f29f983c33c24373b"
+            }
+        ],
+        "price": 99,
+        "avgRating": 4
+    },
+    {
+        "_id": "660846c529f983c33c24373d",
+        "title": "Teriyaki Glazed Salmon",
+        "description": "Teriyaki glazed salmon is a delicious and flavorful dish that combines the sweetness of teriyaki sauce with the richness of salmon. The salmon fillets are marinated in a homemade teriyaki sauce, then grilled or baked to perfection.",
+        "imageUrl": "https://www.mygfguide.com/wp-content/uploads/2020/01/00000IMG_00000_BURST20200131133521757_COVER-735x551.jpg",
+        "timeInMins": 30,
+        "categories": [
+            "Fish",
+            "Asian"
+        ],
+        "instructions": [
+            "In a small bowl, whisk together soy sauce, brown sugar, minced garlic, grated ginger, and sesame oil to make the teriyaki sauce.",
+            "Place the salmon fillets in a shallow dish and pour half of the teriyaki sauce over them. Reserve the remaining sauce for basting.",
+            "Cover the dish and marinate the salmon in the refrigerator for at least 30 minutes, or up to 1 hour.",
+            "Preheat the grill or oven to medium-high heat. Oil the grill grates or line a baking sheet with parchment paper.",
+            "Remove the salmon from the marinade and shake off any excess. Discard the marinade.",
+            "Grill or bake the salmon for 4-5 minutes per side, basting with the reserved teriyaki sauce, until the salmon is cooked through and caramelized on the outside.",
+            "Transfer the teriyaki glazed salmon to a serving platter and garnish with sliced green onions and sesame seeds. Serve hot."
+        ],
+        "ingredients": [
+            {
+                "name": "Salmon fillets",
+                "amount": 4,
+                "unit": "",
+                "_id": "660846c529f983c33c24373e"
+            },
+            {
+                "name": "Soy sauce",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "660846c529f983c33c24373f"
+            },
+            {
+                "name": "Brown sugar",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "660846c529f983c33c243740"
+            },
+            {
+                "name": "Garlic, minced",
+                "amount": 2,
+                "unit": "cloves",
+                "_id": "660846c529f983c33c243741"
+            },
+            {
+                "name": "Ginger, grated",
+                "amount": 1,
+                "unit": "teaspoon",
+                "_id": "660846c529f983c33c243742"
+            },
+            {
+                "name": "Sesame oil",
+                "amount": 1,
+                "unit": "teaspoon",
+                "_id": "660846c529f983c33c243743"
+            },
+            {
+                "name": "Green onions, sliced",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "660846c529f983c33c243744"
+            },
+            {
+                "name": "Sesame seeds",
+                "amount": 1,
+                "unit": "tablespoon",
+                "_id": "660846c529f983c33c243745"
+            }
+        ],
+        "price": 189,
+        "avgRating": 4
+    },
+    {
+        "_id": "66089bda29f983c33c25b26b",
+        "title": "Tuna Salad",
+        "description": "Tuna salad is a classic dish that's perfect for sandwiches, wraps, or serving over greens. It's made with canned tuna, crunchy vegetables, and a creamy dressing, and it comes together in minutes.",
+        "imageUrl": "https://beatthebudget.com/wp-content/uploads/2022/08/Tuna-Pasta-Salad-Featured-image.jpg",
+        "timeInMins": 15,
+        "categories": [
+            "Fish",
+            "Salads"
+        ],
+        "instructions": [
+            "In a large bowl, combine canned tuna, diced celery, diced red onion, chopped dill pickles, mayonnaise, Dijon mustard, lemon juice, salt, and black pepper.",
+            "Mix all ingredients until well combined. Taste and adjust seasoning, if necessary.",
+            "Chill the tuna salad in the refrigerator for at least 30 minutes before serving to allow the flavors to meld together.",
+            "Serve the tuna salad on sandwiches, wraps, or over a bed of lettuce. Enjoy!"
+        ],
+        "ingredients": [
+            {
+                "name": "Canned tuna, drained",
+                "amount": 2,
+                "unit": "cups",
+                "_id": "66089bda29f983c33c25b26c"
+            },
+            {
+                "name": "Celery, diced",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "66089bda29f983c33c25b26d"
+            },
+            {
+                "name": "Red onion, diced",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "66089bda29f983c33c25b26e"
+            },
+            {
+                "name": "Dill pickles, chopped",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "66089bda29f983c33c25b26f"
+            },
+            {
+                "name": "Mayonnaise",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "66089bda29f983c33c25b270"
+            },
+            {
+                "name": "Dijon mustard",
+                "amount": 1,
+                "unit": "tablespoon",
+                "_id": "66089bda29f983c33c25b271"
+            },
+            {
+                "name": "Lemon juice",
+                "amount": 1,
+                "unit": "tablespoon",
+                "_id": "66089bda29f983c33c25b272"
+            },
+            {
+                "name": "Salt",
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "_id": "66089bda29f983c33c25b273"
+            },
+            {
+                "name": "Black pepper, freshly ground",
+                "amount": 0.5,
+                "unit": "teaspoon",
+                "_id": "66089bda29f983c33c25b274"
+            }
+        ],
+        "price": 109,
+        "avgRating": 4
+    },
+    {
+        "_id": "660a9ec029f983c33c360ff8",
+        "title": "Okonomiyaki Osaka-style",
+        "description": "This super tasty dish with its somewhat difficult to pronounce name is a very popular street food dish in Japan.",
+        "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_150247/cf_259/okonomiyaki_osaka-style.jpg",
+        "timeInMins": 40,
+        "categories": [
+            "Lunch",
+            "Dinner",
+            "Japanese",
+            "Pork"
+        ],
+        "instructions": [
+            "Sauce: Peel and grate the ginger. Mix all the ingredients for the sauce and boil until it thickens. ",
+            "Cabbage pan: Trim and chop the white cabbage and slice the green onions. Mix cabbage and onion with ginger and salt in a bowl. ",
+            "Whisk together water, flour and eggs in a separate bowl. Mix the batter into the cabbage mixture. ",
+            "Heat the oil in a frying pan and pour in the batter. Lower to medium heat and cover with a lid or foil and cook for 5 minutes first. Then add the bacon and put the lid on and cook for another 5 minutes."
+        ],
+        "ingredients": [
+            {
+                "name": "grated fresh ginger",
+                "amount": 1.5,
+                "unit": "tsp",
+                "_id": "660a9ec029f983c33c360ff9"
+            },
+            {
+                "name": "worcester sauce",
+                "amount": 0.5,
+                "unit": "dl",
+                "_id": "660a9ec029f983c33c360ffa"
+            },
+            {
+                "name": "japanese soy",
+                "amount": 0.5,
+                "unit": "dl",
+                "_id": "660a9ec029f983c33c360ffb"
+            },
+            {
+                "name": "water",
+                "amount": 0.5,
+                "unit": "dl",
+                "_id": "660a9ec029f983c33c360ffc"
+            },
+            {
+                "name": "white wine vinegar",
+                "amount": 2,
+                "unit": "tbsp",
+                "_id": "660a9ec029f983c33c360ffd"
+            },
+            {
+                "name": " powdered sugar",
+                "amount": 2,
+                "unit": "tbsp",
+                "_id": "660a9ec029f983c33c360ffe"
+            },
+            {
+                "name": "cornstarch",
+                "amount": 1,
+                "unit": "tsp",
+                "_id": "660a9ec029f983c33c360fff"
+            },
+            {
+                "name": "cabbage",
+                "amount": 500,
+                "unit": "gram",
+                "_id": "660a9ec029f983c33c361000"
+            },
+            {
+                "name": "onion",
+                "amount": 3,
+                "unit": "piece",
+                "_id": "660a9ec029f983c33c361001"
+            },
+            {
+                "name": "chopped pickled ginger",
+                "amount": 2.5,
+                "unit": "tbsp",
+                "_id": "660a9ec029f983c33c361002"
+            },
+            {
+                "name": "salt",
+                "amount": 2,
+                "unit": "tsp",
+                "_id": "660a9ec029f983c33c361003"
+            },
+            {
+                "name": "water",
+                "amount": 2.5,
+                "unit": "dl",
+                "_id": "660a9ec029f983c33c361004"
+            },
+            {
+                "name": "wheat flour",
+                "amount": 4,
+                "unit": "dl",
+                "_id": "660a9ec029f983c33c361005"
+            },
+            {
+                "name": "egg",
+                "amount": 4,
+                "unit": "piece",
+                "_id": "660a9ec029f983c33c361006"
+            },
+            {
+                "name": "oil",
+                "amount": 3,
+                "unit": "tbsp",
+                "_id": "660a9ec029f983c33c361007"
+            },
+            {
+                "name": "bacon",
+                "amount": 280,
+                "unit": "gram",
+                "_id": "660a9ec029f983c33c361008"
+            }
+        ],
+        "price": 159,
+        "avgRating": 2.9
+    },
+    {
+        "_id": "660aec9629f983c33c387a8f",
+        "title": "Blueberry Soup",
+        "description": "Sweet and refreshing blueberry soup",
+        "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_155149/cf_259/hemgjord_blabarssoppa.jpg",
+        "timeInMins": 30,
+        "categories": [
+            "Dessert",
+            "Scandinavian"
+        ],
+        "instructions": [
+            "Boil blueberries with sugar",
+            "Serve chilled",
+            "Add a scoop of vanilla ice cream"
+        ],
+        "ingredients": [
+            {
+                "name": "Blueberries",
+                "amount": 300,
+                "unit": "g",
+                "_id": "660aec9629f983c33c387a90"
+            },
+            {
+                "name": "Sugar",
+                "amount": 100,
+                "unit": "g",
+                "_id": "660aec9629f983c33c387a91"
+            },
+            {
+                "name": "Water",
+                "amount": 500,
+                "unit": "ml",
+                "_id": "660aec9629f983c33c387a92"
+            },
+            {
+                "name": "Vanilla ice cream",
+                "amount": 4,
+                "unit": "scoops",
+                "_id": "660aec9629f983c33c387a93"
+            }
+        ],
+        "price": 79,
+        "avgRating": 4
+    },
+    {
+        "_id": "660aece529f983c33c388305",
+        "title": "Croissant",
+        "description": "Light and airy French croissants",
+        "imageUrl": "https://vivavinomat.se/wp-content/uploads/recept_croissant_skagen.jpg",
+        "timeInMins": 180,
+        "categories": [
+            "Dessert",
+            "Breakfast",
+            "French"
+        ],
+        "instructions": [
+            "Mix dough",
+            "Cut and shape croissants",
+            "Bake until golden brown"
+        ],
+        "ingredients": [
+            {
+                "name": "Flour",
+                "amount": 500,
+                "unit": "g",
+                "_id": "660aece529f983c33c388306"
+            },
+            {
+                "name": "Butter",
+                "amount": 250,
+                "unit": "g",
+                "_id": "660aece529f983c33c388307"
+            },
+            {
+                "name": "Yeast",
+                "amount": 25,
+                "unit": "g",
+                "_id": "660aece529f983c33c388308"
+            }
+        ],
+        "price": 39,
+        "avgRating": 4
+    },
+    {
+        "_id": "660aed4929f983c33c3890ee",
+        "title": "Tiramisu",
+        "description": "A delicious Italian dessert with layers of coffee-soaked ladyfingers, mascarpone cream, and cocoa.",
+        "imageUrl": "https://www.flavoursholidays.co.uk/wp-content/uploads/2020/07/Tiramisu.jpg.webp",
+        "timeInMins": 60,
+        "categories": [
+            "Dessert",
+            "Italian",
+            "Dairy"
+        ],
+        "instructions": [
+            "Mix coffee and marsala wine in a bowl.",
+            "Dip ladyfingers in the coffee mixture and layer at the bottom of a dish.",
+            "Whisk mascarpone, sugar, and vanilla extract in another bowl.",
+            "Spread a layer of mascarpone cream over the ladyfingers.",
+            "Repeat with another layer of dipped ladyfingers and mascarpone cream.",
+            "Chill tiramisu in the refrigerator and let set for at least 4 hours, or overnight.",
+            "Dust with cocoa just before serving.",
+            "Slice and serve the delightful Italian dessert to your guests!"
+        ],
+        "ingredients": [
+            {
+                "name": "Ladyfingers",
+                "amount": 24,
+                "unit": "pcs",
+                "_id": "660aed4929f983c33c3890ef"
+            },
+            {
+                "name": "Coffee",
+                "amount": 1,
+                "unit": "dl",
+                "_id": "660aed4929f983c33c3890f0"
+            },
+            {
+                "name": "Marsala wine",
+                "amount": 2,
+                "unit": "tbsp",
+                "_id": "660aed4929f983c33c3890f1"
+            },
+            {
+                "name": "Mascarpone",
+                "amount": 500,
+                "unit": "g",
+                "_id": "660aed4929f983c33c3890f2"
+            },
+            {
+                "name": "Granulated sugar",
+                "amount": 100,
+                "unit": "g",
+                "_id": "660aed4929f983c33c3890f3"
+            },
+            {
+                "name": "Vanilla extract",
+                "amount": 1,
+                "unit": "tsp",
+                "_id": "660aed4929f983c33c3890f4"
+            },
+            {
+                "name": "Cocoa",
+                "amount": null,
+                "unit": "",
+                "_id": "660aed4929f983c33c3890f5"
+            }
+        ],
+        "price": 89,
+        "avgRating": 4
+    },
+    {
+        "_id": "660aed9f29f983c33c3893cf",
+        "title": "Toast Skagen",
+        "description": "Classic Swedish sandwich recipe",
+        "imageUrl": "https://static.cdn-expressen.se/images/af/b9/afb9b67d566d432db4bd632cdc2a44b6/16x9/1920@80.jpg",
+        "timeInMins": 20,
+        "categories": [
+            "Appetizer",
+            "Swedish",
+            "Seafood",
+            "Lunch"
+        ],
+        "instructions": [
+            "Peel and chop the shrimp",
+            "Mix shrimp with mayonnaise, sour cream, dill, and lemon juice",
+            "Season with salt and pepper",
+            "Lightly toast the bread slices",
+            "Spread the mixture on the toasted bread slices",
+            "Decorate with lemon slices and dill sprigs"
+        ],
+        "ingredients": [
+            {
+                "name": "Shrimp",
+                "amount": 200,
+                "unit": "g",
+                "_id": "660aed9f29f983c33c3893d0"
+            },
+            {
+                "name": "Mayonnaise",
+                "amount": 2,
+                "unit": "tbsp",
+                "_id": "660aed9f29f983c33c3893d1"
+            },
+            {
+                "name": "Sour cream",
+                "amount": 2,
+                "unit": "tbsp",
+                "_id": "660aed9f29f983c33c3893d2"
+            },
+            {
+                "name": "Fresh dill",
+                "amount": 1,
+                "unit": "bunch",
+                "_id": "660aed9f29f983c33c3893d3"
+            },
+            {
+                "name": "Lemon juice",
+                "amount": 1,
+                "unit": "tbsp",
+                "_id": "660aed9f29f983c33c3893d4"
+            },
+            {
+                "name": "Salt",
+                "amount": null,
+                "unit": "",
+                "_id": "660aed9f29f983c33c3893d5"
+            },
+            {
+                "name": "Black pepper",
+                "amount": null,
+                "unit": "",
+                "_id": "660aed9f29f983c33c3893d6"
+            },
+            {
+                "name": "White bread",
+                "amount": 4,
+                "unit": "slices",
+                "_id": "660aed9f29f983c33c3893d7"
+            },
+            {
+                "name": "Lemon",
+                "amount": 1,
+                "unit": "piece",
+                "_id": "660aed9f29f983c33c3893d8"
+            }
+        ],
+        "price": 119,
+        "avgRating": 5
+    },
+    {
+        "_id": "660aedde29f983c33c3899bc",
+        "title": "Raggmunk",
+        "description": "Crispy potato pancakes served with lingonberry sauce",
+        "imageUrl": "https://static.cdn-expressen.se/images/6d/e9/6de9080386b74412b7564098c48e241f/16x9/1000@40.jpg",
+        "timeInMins": 45,
+        "categories": [
+            "Dinner",
+            "Lunch",
+            "Scandinavian"
+        ],
+        "instructions": [
+            "Grate potatoes",
+            "Fry until golden brown",
+            "Serve with lingonberry sauce"
+        ],
+        "ingredients": [
+            {
+                "name": "Potatoes",
+                "amount": 4,
+                "unit": "pcs",
+                "_id": "660aedde29f983c33c3899bd"
+            },
+            {
+                "name": "Flour",
+                "amount": 2,
+                "unit": "tbsp",
+                "_id": "660aedde29f983c33c3899be"
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "pcs",
+                "_id": "660aedde29f983c33c3899bf"
+            },
+            {
+                "name": "Lingonberry sauce",
+                "amount": 150,
+                "unit": "g",
+                "_id": "660aedde29f983c33c3899c0"
+            }
+        ],
+        "price": 139,
+        "avgRating": 3
+    },
+    {
+        "_id": "660af0ee29f983c33c38ffb6",
+        "title": "Cinnamon Buns",
+        "description": "Sweet and aromatic cinnamon buns",
+        "imageUrl": "https://img.koket.se/standard-mega/saftigaste-kanelbullarna.jpg.webp",
+        "timeInMins": 120,
+        "categories": [
+            "Dessert",
+            "Scandinavian",
+            "American",
+            "Snack"
+        ],
+        "instructions": [
+            "Prepare dough",
+            "Roll with cinnamon sugar",
+            "Bake until golden"
+        ],
+        "ingredients": [
+            {
+                "name": "Wheat flour",
+                "amount": 500,
+                "unit": "g",
+                "_id": "660af0ee29f983c33c38ffb7"
+            },
+            {
+                "name": "Milk",
+                "amount": 300,
+                "unit": "ml",
+                "_id": "660af0ee29f983c33c38ffb8"
+            },
+            {
+                "name": "Cinnamon",
+                "amount": 2,
+                "unit": "tbsp",
+                "_id": "660af0ee29f983c33c38ffb9"
+            },
+            {
+                "name": "Sugar",
+                "amount": 150,
+                "unit": "g",
+                "_id": "660af0ee29f983c33c38ffba"
+            }
+        ],
+        "price": 46,
+        "avgRating": 5
+    },
+    {
+        "_id": "660af13d29f983c33c390b00",
+        "title": "Dim Sum",
+        "description": "A wide range of small Chinese dishes",
+        "imageUrl": "https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2f58d646832c45eaa9c721d366c2dc6a?width=1000",
+        "timeInMins": 45,
+        "categories": [
+            "Appetizer",
+            "Chinese",
+            "Meat",
+            "Seafood",
+            "Tofu"
+        ],
+        "instructions": [
+            "Prepare a variety of fillings which may include meat, shrimp, vegetables, or tofu.",
+            "Prepare a thin dough of wheat flour and water.",
+            "Shape small dough pieces and then fill them with desired filling.",
+            "Steam Dim Sum in bamboo baskets for about 10-15 minutes until cooked through.",
+            "Serve Dim Sum hot along with soy sauce, ginger, and chili sauce."
+        ],
+        "ingredients": [
+            {
+                "name": "Minced meat",
+                "amount": 200,
+                "unit": "g",
+                "_id": "660af13d29f983c33c390b01"
+            },
+            {
+                "name": "Shrimp",
+                "amount": 150,
+                "unit": "g",
+                "_id": "660af13d29f983c33c390b02"
+            },
+            {
+                "name": "Vegetables",
+                "amount": null,
+                "unit": "",
+                "_id": "660af13d29f983c33c390b03"
+            },
+            {
+                "name": "Tofu",
+                "amount": 200,
+                "unit": "g",
+                "_id": "660af13d29f983c33c390b04"
+            },
+            {
+                "name": "Wheat flour",
+                "amount": 300,
+                "unit": "g",
+                "_id": "660af13d29f983c33c390b05"
+            },
+            {
+                "name": "Water",
+                "amount": 150,
+                "unit": "ml",
+                "_id": "660af13d29f983c33c390b06"
+            },
+            {
+                "name": "Soy sauce",
+                "amount": null,
+                "unit": "",
+                "_id": "660af13d29f983c33c390b07"
+            },
+            {
+                "name": "Ginger",
+                "amount": null,
+                "unit": "",
+                "_id": "660af13d29f983c33c390b08"
+            },
+            {
+                "name": "Chili sauce",
+                "amount": null,
+                "unit": "",
+                "_id": "660af13d29f983c33c390b09"
+            }
+        ],
+        "price": 239,
+        "avgRating": 4.5
+    },
+    {
+        "_id": "660af18e29f983c33c391705",
+        "title": "Caprese Salad",
+        "description": "Fresh Italian salad with mozzarella, tomatoes, and basil",
+        "imageUrl": "https://natashaskitchen.com/wp-content/uploads/2019/08/Caprese-Salad-6.jpg",
+        "timeInMins": 15,
+        "categories": [
+            "Appetizer",
+            "Italian",
+            "Lunch"
+        ],
+        "instructions": [
+            "Slice mozzarella and tomatoes",
+            "Layer mozzarella, tomatoes, and basil on a plate",
+            "Drizzle with olive oil and balsamic vinegar"
+        ],
+        "ingredients": [
+            {
+                "name": "Buffalo mozzarella",
+                "amount": 1,
+                "unit": "ball",
+                "_id": "660af18e29f983c33c391706"
+            },
+            {
+                "name": "Tomatoes",
+                "amount": 4,
+                "unit": "pcs",
+                "_id": "660af18e29f983c33c391707"
+            },
+            {
+                "name": "Fresh basil",
+                "amount": 1,
+                "unit": "bunch",
+                "_id": "660af18e29f983c33c391708"
+            },
+            {
+                "name": "Olive oil",
+                "amount": 2,
+                "unit": "tbsp",
+                "_id": "660af18e29f983c33c391709"
+            }
+        ],
+        "price": 99,
+        "avgRating": 5
+    },
+    {
+        "_id": "660bcd3a29f983c33c4abd91",
+        "title": "Chicken Tikka Masala",
+        "description": "A popular Indian dish consisting of marinated and grilled chicken chunks in a creamy tomato-based sauce.",
+        "imageUrl": "https://i0.wp.com/www.nourishdeliciously.com/wp-content/uploads/2022/11/DSC_9207.jpg",
+        "timeInMins": 45,
+        "categories": [
+            "Poultry",
+            "Dinner",
+            "Indian"
+        ],
+        "instructions": [
+            "Marinate chicken chunks in yogurt, lemon juice, and spices for 30 minutes.",
+            "Grill marinated chicken until cooked through.",
+            "In a separate pan, sauté onions, garlic, ginger, and spices until fragrant.",
+            "Add tomato puree and cream to the pan, simmer until the sauce thickens.",
+            "Add grilled chicken to the sauce, simmer for another 10 minutes. Serve hot."
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken breast",
+                "amount": 1,
+                "unit": "pound",
+                "_id": "660bcd3a29f983c33c4abd92"
+            },
+            {
+                "name": "Yogurt",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "660bcd3a29f983c33c4abd93"
+            },
+            {
+                "name": "Lemon juice",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "660bcd3a29f983c33c4abd94"
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "large",
+                "_id": "660bcd3a29f983c33c4abd95"
+            },
+            {
+                "name": "Garlic cloves",
+                "amount": 3,
+                "unit": "cloves",
+                "_id": "660bcd3a29f983c33c4abd96"
+            },
+            {
+                "name": "Ginger",
+                "amount": 1,
+                "unit": "inch piece",
+                "_id": "660bcd3a29f983c33c4abd97"
+            },
+            {
+                "name": "Tomato puree",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "660bcd3a29f983c33c4abd98"
+            },
+            {
+                "name": "Heavy cream",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "660bcd3a29f983c33c4abd99"
+            },
+            {
+                "name": "Spices (cumin, coriander, paprika, turmeric, garam masala)",
+                "amount": null,
+                "unit": "",
+                "_id": "660bcd3a29f983c33c4abd9a"
+            },
+            {
+                "name": "Salt",
+                "amount": null,
+                "unit": "",
+                "_id": "660bcd3a29f983c33c4abd9b"
+            },
+            {
+                "name": "Fresh cilantro",
+                "amount": null,
+                "unit": "",
+                "_id": "660bcd3a29f983c33c4abd9c"
+            }
+        ],
+        "price": 229,
+        "avgRating": 4
+    },
+    {
+        "_id": "660bcd9d29f983c33c4acb12",
+        "title": "Palak Paneer",
+        "description": "A nutritious Indian dish made with spinach and paneer (Indian cottage cheese) in a creamy sauce.",
+        "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_159450/cf_259/palak_paneer_med_tomat_och_halloumi.jpg",
+        "timeInMins": 30,
+        "categories": [
+            "Vegetarian",
+            "Indian",
+            "Lunch"
+        ],
+        "instructions": [
+            "Blanch spinach leaves in boiling water, then shock in ice water. Blend into a smooth paste.",
+            "Sauté onions, garlic, and ginger until golden brown.",
+            "Add spinach puree, spices, and cream. Simmer until flavors blend.",
+            "Add cubed paneer and cook until heated through. Serve hot."
+        ],
+        "ingredients": [
+            {
+                "name": "Spinach",
+                "amount": 2,
+                "unit": "bunches",
+                "_id": "660bcd9d29f983c33c4acb13"
+            },
+            {
+                "name": "Paneer",
+                "amount": 200,
+                "unit": "grams",
+                "_id": "660bcd9d29f983c33c4acb14"
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "large",
+                "_id": "660bcd9d29f983c33c4acb15"
+            },
+            {
+                "name": "Garlic cloves",
+                "amount": 3,
+                "unit": "cloves",
+                "_id": "660bcd9d29f983c33c4acb16"
+            },
+            {
+                "name": "Ginger",
+                "amount": 1,
+                "unit": "inch piece",
+                "_id": "660bcd9d29f983c33c4acb17"
+            },
+            {
+                "name": "Heavy cream",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "660bcd9d29f983c33c4acb18"
+            },
+            {
+                "name": "Spices (cumin, coriander, turmeric, garam masala)",
+                "amount": null,
+                "unit": "",
+                "_id": "660bcd9d29f983c33c4acb19"
+            },
+            {
+                "name": "Salt",
+                "amount": null,
+                "unit": "",
+                "_id": "660bcd9d29f983c33c4acb1a"
+            },
+            {
+                "name": "Ghee",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "660bcd9d29f983c33c4acb1b"
+            }
+        ],
+        "price": 199,
+        "avgRating": 3.5714285714285716
+    },
+    {
+        "_id": "660fad2e29f983c33cbaa18a",
+        "title": "Rogan Josh",
+        "description": "A flavorful Indian curry made with tender lamb cooked in a rich and aromatic sauce.",
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/rogan-josh-wide-1572547980.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
+        "timeInMins": 60,
+        "categories": [
+            "Meat",
+            "Indian",
+            "Dinner"
+        ],
+        "instructions": [
+            "Sauté onions, garlic, and ginger in ghee until golden brown.",
+            "Add lamb pieces and brown on all sides.",
+            "Add yogurt, tomato puree, and spices. Cook until lamb is tender.",
+            "Garnish with fresh cilantro and serve hot with rice or naan."
+        ],
+        "ingredients": [
+            {
+                "name": "Lamb stew meat",
+                "amount": 1,
+                "unit": "pound",
+                "_id": "660fad2e29f983c33cbaa18b"
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "large",
+                "_id": "660fad2e29f983c33cbaa18c"
+            },
+            {
+                "name": "Garlic cloves",
+                "amount": 4,
+                "unit": "cloves",
+                "_id": "660fad2e29f983c33cbaa18d"
+            },
+            {
+                "name": "Ginger",
+                "amount": 1,
+                "unit": "inch piece",
+                "_id": "660fad2e29f983c33cbaa18e"
+            },
+            {
+                "name": "Yogurt",
+                "amount": 0.5,
+                "unit": "cup",
+                "_id": "660fad2e29f983c33cbaa18f"
+            },
+            {
+                "name": "Tomato puree",
+                "amount": 1,
+                "unit": "cup",
+                "_id": "660fad2e29f983c33cbaa190"
+            },
+            {
+                "name": "Spices (cumin, coriander, paprika, turmeric, garam masala)",
+                "amount": null,
+                "unit": "",
+                "_id": "660fad2e29f983c33cbaa191"
+            },
+            {
+                "name": "Salt",
+                "amount": null,
+                "unit": "",
+                "_id": "660fad2e29f983c33cbaa192"
+            },
+            {
+                "name": "Fresh cilantro",
+                "amount": null,
+                "unit": "",
+                "_id": "660fad2e29f983c33cbaa193"
+            },
+            {
+                "name": "Ghee",
+                "amount": 2,
+                "unit": "tablespoons",
+                "_id": "660fad2e29f983c33cbaa194"
+            }
+        ],
+        "price": 209,
+        "avgRating": 4
+    },
+    {
+        "_id": "6613a207571f4163308e02de",
+        "title": "Pea Soup",
+        "description": "Traditional pea soup",
+        "imageUrl": "https://shared.cdn.smp.schibsted.com/v2/images/de4270d3-101a-42e9-bc66-a04a91768747?fit=crop&h=1137&w=1800&s=129692d79aca75d67396f7300faeaf7d3092d8b1",
+        "timeInMins": 60,
+        "price": 99,
+        "categories": [
+            "dinner",
+            "Appetizer",
+            "Scandinavian",
+            "Poultry"
+        ],
+        "instructions": [
+            "Soak peas overnight",
+            "Boil with vegetables",
+            "Serve with mustard and ham"
+        ],
+        "ingredients": [
+            {
+                "name": "Yellow peas",
+                "amount": 250,
+                "unit": "g",
+                "_id": "6613a207571f4163308e02df"
+            },
+            {
+                "name": "Carrots",
+                "amount": 2,
+                "unit": "pcs",
+                "_id": "6613a207571f4163308e02e0"
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "pcs",
+                "_id": "6613a207571f4163308e02e1"
+            },
+            {
+                "name": " Pork shank",
+                "amount": 1,
+                "unit": "pcs",
+                "_id": "6613a207571f4163308e02e2"
+            }
+        ],
+        "avgRating": 4
+    },
+    {
+        "_id": "6614f9045d2cfae26cf28507",
+        "title": "Enchiladas",
+        "description": "Oven-baked tortilla rolls filled with meat and sauce",
+        "imageUrl": "https://images.arla.com/recordid/C22D75B0-BFB8-4FE3-B4E54ED6CCE2841E/enchiladas-med-biff.jpg?format=jpg&width=1269&height=715&mode=crop&crop=(0,257,0,-437)",
+        "timeInMins": 45,
+        "price": 119,
+        "categories": [
+            "Dinner",
+            "Mexican",
+            "Meat"
+        ],
+        "instructions": [
+            "Cook ground beef until browned and cooked through.",
+            "Chop the onion and add it to the ground beef. Cook until the onion is soft and translucent.",
+            "Lightly heat the tortillas in a dry skillet or microwave to make them more pliable.",
+            "Evenly distribute the beef mixture over the tortillas and roll them up into rolls.",
+            "Place the filled tortilla rolls in a baking dish.",
+            "Pour enchilada sauce over the tortilla rolls to cover completely.",
+            "Grate the cheese and sprinkle over the enchilada sauce.",
+            "Bake in the oven at 200°C for about 15-20 minutes, or until the cheese is melted and bubbly.",
+            "Serve the enchiladas hot and enjoy the Mexican flavor!"
+        ],
+        "ingredients": [
+            {
+                "name": "Ground beef",
+                "amount": 400,
+                "unit": "g",
+                "_id": "6614f9045d2cfae26cf28508"
+            },
+            {
+                "name": "Onion",
+                "amount": 1,
+                "unit": "pcs",
+                "_id": "6614f9045d2cfae26cf28509"
+            },
+            {
+                "name": "Tortillas",
+                "amount": 8,
+                "unit": "pcs",
+                "_id": "6614f9045d2cfae26cf2850a"
+            },
+            {
+                "name": "Enchilada sauce",
+                "amount": 2,
+                "unit": "dl",
+                "_id": "6614f9045d2cfae26cf2850b"
+            },
+            {
+                "name": "Cheese",
+                "amount": 200,
+                "unit": "g",
+                "_id": "6614f9045d2cfae26cf2850c"
+            }
+        ],
+        "avgRating": 4
+    },
+    {
+        "_id": "66150f975d2cfae26cf6083e",
+        "title": "Lamb Skewers with Rice",
+        "description": "Juicy lamb skewers served with spiced rice and tzatziki.",
+        "imageUrl": "https://i0.wp.com/media.zeinaskitchen.se/2017/05/kabsa_1_Fotor.jpg?fit=3000%2C1907&ssl=1",
+        "timeInMins": 45,
+        "categories": [
+            "Dinner",
+            "Mediterranean",
+            "Meat"
+        ],
+        "instructions": [
+            "Marinate the lamb in olive oil, garlic, rosemary, lemon juice, salt, and pepper for at least 2 hours.",
+            "Thread the lamb onto grill skewers and grill over open flame or in the oven until cooked through and nicely grilled.",
+            "Cook the rice according to package instructions and season with cumin, cinnamon, and a pinch of salt.",
+            "Serve the lamb skewers with the spiced rice and tzatziki. Garnish with fresh coriander or parsley."
+        ],
+        "ingredients": [
+            {
+                "name": "Lamb meat",
+                "amount": 500,
+                "unit": "g",
+                "_id": "66150f975d2cfae26cf6083f"
+            },
+            {
+                "name": "Olive oil",
+                "amount": 2,
+                "unit": "tbsp",
+                "_id": "66150f975d2cfae26cf60840"
+            },
+            {
+                "name": "Garlic",
+                "amount": 2,
+                "unit": "cloves",
+                "_id": "66150f975d2cfae26cf60841"
+            },
+            {
+                "name": "Rosemary",
+                "amount": 1,
+                "unit": "tsp",
+                "_id": "66150f975d2cfae26cf60842"
+            },
+            {
+                "name": "Lemon juice",
+                "amount": 1,
+                "unit": "tbsp",
+                "_id": "66150f975d2cfae26cf60843"
+            },
+            {
+                "name": "Salt",
+                "amount": 0.5,
+                "unit": "",
+                "_id": "66150f975d2cfae26cf60844"
+            },
+            {
+                "name": "Pepper",
+                "amount": 0.5,
+                "unit": "",
+                "_id": "66150f975d2cfae26cf60845"
+            },
+            {
+                "name": "Rice",
+                "amount": 250,
+                "unit": "g",
+                "_id": "66150f975d2cfae26cf60846"
+            },
+            {
+                "name": "Cumin",
+                "amount": 1,
+                "unit": "tsp",
+                "_id": "66150f975d2cfae26cf60847"
+            },
+            {
+                "name": "Cinnamon",
+                "amount": 0.5,
+                "unit": "tsp",
+                "_id": "66150f975d2cfae26cf60848"
+            },
+            {
+                "name": "Tzatziki",
+                "amount": null,
+                "unit": "",
+                "_id": "66150f975d2cfae26cf60849"
+            },
+            {
+                "name": "Fresh coriander or parsley",
+                "amount": null,
+                "unit": "",
+                "_id": "66150f975d2cfae26cf6084a"
+            }
+        ],
+        "price": 189,
+        "avgRating": 4
+    }
+]
